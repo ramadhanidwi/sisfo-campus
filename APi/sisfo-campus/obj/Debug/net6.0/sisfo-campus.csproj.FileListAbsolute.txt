@@ -1,0 +1,7 @@
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.csproj.AssemblyReference.cache
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.AssemblyInfoInputs.cache
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.AssemblyInfo.cs
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.csproj.CoreCompileInputs.cache
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.MvcApplicationPartsAssemblyInfo.cache

@@ -1,7 +1,9 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using System;
+using Microsoft.EntityFrameworkCore;
 using sisfo_campus.Models;
 
-namespace sisfo_campus.Context;
+
+namespace sisfo_campus.Contexts;
 
 public class MyContext : DbContext
 {

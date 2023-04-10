@@ -3,7 +3,7 @@ using sisfo_campus.Models;
 
 namespace sisfo_campus.Repositories.Data;
 
-public class CourseRepository : GeneralRepository<string, Course>
+public class CourseRepository : GeneralRepository<int, Course>
 {
     private readonly MyContext context;
 

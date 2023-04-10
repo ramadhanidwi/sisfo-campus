@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using sisfo_campus.Repositories.Interface;
 
 namespace sisfo_campus.Base
 {
@@ -7,7 +8,7 @@ namespace sisfo_campus.Base
     [ApiController]
     public class BaseController<Key, Entity, Repository> : ControllerBase
         where Entity : class
-        where Repository : IRepository<Key, Entity>
+        where Repository : iRepository<Key, Entity>
     {
         private readonly Repository repository;
         public BaseController(Repository repository)

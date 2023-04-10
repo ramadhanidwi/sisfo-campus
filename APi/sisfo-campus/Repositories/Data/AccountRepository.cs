@@ -27,16 +27,6 @@ public class AccountRepository : GeneralRepository<int, Account>
                 Password = s.Account.Password
             }).SingleOrDefaultAsync(a => a.Email == loginVM.Email);
 
-        //var getAccounts = context.Employees.Join(
-        //    context.Accounts,
-        //    e => e.NIK,
-        //    a => a.EmployeeNIK,
-        //    (e, a) => new LoginVM
-        //    {
-        //        Email = e.Email,
-        //        Password = a.Password
-        //    }).FirstOrDefault(a => a.Email == loginVM.Email);
-
         if (getAccounts is null)
         {
             return false;
@@ -70,7 +60,7 @@ public class AccountRepository : GeneralRepository<int, Account>
             Name = registerVM.MajorName,
             FacultyCode = faculty.Code
         };
-        await context.Faculties.AddAsync(faculty);
+        await context.Majors.AddAsync(major);
         result = await context.SaveChangesAsync();
 
         Student student= new Student
@@ -80,8 +70,10 @@ public class AccountRepository : GeneralRepository<int, Account>
             LastName = registerVM.LastName,
             BirthDate = registerVM.BirthDate,
             Gender = registerVM.Gender,
-            Email = registerVM.Email,
             PhoneNumber = registerVM.PhoneNumber,
+            Address = registerVM.Address,
+            Email = registerVM.Email
+
         };
         await context.Students.AddAsync(student);
         result = await context.SaveChangesAsync();
@@ -97,7 +89,7 @@ public class AccountRepository : GeneralRepository<int, Account>
         AccountRole accountRole = new AccountRole
         {
             AccountId = registerVM.Nim,
-            RoleId = 2
+            RoleId = 3
         };
 
         await context.AccountRoles.AddAsync(accountRole);
@@ -106,41 +98,9 @@ public class AccountRepository : GeneralRepository<int, Account>
         return result;
     }
 
-    //public async Task<List<AccountEmployeeVM>> GetEmployeeAccount()
-    //{
-    //    var results = (from a in GetAll()
-    //                   join e in empRepository.GetAll()
-    //                   on a.EmployeeNIK equals e.NIK
-    //                   select new AccountEmployeeVM
-    //                   {
-    //                       Email = e.Email,
-    //                       Password = a.Password
-    //                   }).ToList();
-    //    return results;
-    //}
 
     public async Task<UserDataVM> GetUserData(string email)
     {
-        //Menggunakan Method Syntax
-        //var userdataMethod = context.Employees
-        //  .Join(context.Accounts,
-        //  e => e.NIK,
-        //  a => a.EmployeeNIK,
-        //  (e, a) => new { e, a })
-        //  .Join(context.AccountRoles,
-        //  ea => ea.a.EmployeeNIK,
-        //  ar => ar.AccountNIK,
-        //  (ea, ar) => new { ea, ar })
-        //  .Join(context.Roles,
-        //  eaar => eaar.ar.RoleId,
-        //  r => r.Id,
-        //  (eaar, r) => new UserDataVM
-        //  {
-        //      Email = eaar.ea.e.Email,
-        //      FullName = String.Concat(eaar.ea.e.FirstName, eaar.ea.e.LastName),
-        //      Role = r.Name
-        //  }).FirstOrDefault(u => u.Email == email);
-
         //Menggunakan Query Syntax 
         var userdata = await (from s in context.Students //seharusnya jangan pake context tapi import dari repository nya table bersangkutan
                               join a in context.Accounts
@@ -155,18 +115,18 @@ public class AccountRepository : GeneralRepository<int, Account>
                                   Email = s.Email,
                                   FullName = string.Concat(s.FirstName, " ", s.LastName)
                               }).FirstOrDefaultAsync();
-
         return userdata;
     }
 
     public async Task<List<string>> GetRolesByNIK(string email)
     {
         var getNIK = await context.Students.FirstOrDefaultAsync(s => s.Email == email);
-        return context.AccountRoles.Where(ar => ar.AccountId == getNIK.Nim).Join(
+        var aa = context.AccountRoles.Where(ar => ar.AccountId == getNIK.Nim).Join(
             context.Roles,
             ar => ar.RoleId,
             r => r.Id,
             (ar, r) => r.Name).ToList();
+        return aa;
     }
 }
 

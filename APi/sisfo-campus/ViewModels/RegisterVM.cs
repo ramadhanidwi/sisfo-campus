@@ -5,8 +5,7 @@ namespace sisfo_campus.ViewModels;
 
 public class RegisterVM
 {
-    [MaxLength(10), MinLength(0)]
-    public int Nim { get; set; }
+    public string Nim { get; set; }
 
     public string FirstName { get; set; }   
 

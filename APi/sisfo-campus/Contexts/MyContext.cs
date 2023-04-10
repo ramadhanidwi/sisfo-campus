@@ -31,5 +31,33 @@ public class MyContext : DbContext
         .HasOne(s => s.Account)
         .WithOne(a => a.Student)
         .HasForeignKey<Account>(fk => fk.StudentNim);
+
+
+        //menambahkan data secara default ke tabel 
+        modelBuilder.Entity<Role>().HasData(
+            new Role
+            {
+                Id = 1,
+                Name = "Admin"
+            },
+
+            new Role
+            {
+                Id = 2,
+                Name = "Lecturer"
+            },
+
+            new Role
+            {
+                Id = 3,
+                Name = "Student"
+            });
+
+        ////Membuat atribute menjadi unique
+        //modelBuilder.Entity<Student>().HasAlternateKey(s => new        //karena ada 2 atribut unique maka menggunakan anonymous function
+        //{
+        //    s.Email,
+        //    s.PhoneNumber,
+        //});
     }
 }

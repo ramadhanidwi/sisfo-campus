@@ -7,16 +7,17 @@ namespace sisfo_campus.Models;
 [Table("tb_m_majors")]
 public class Major
 {
-    [Key,Column("id", TypeName ="nchar(5)")]
-    public string Code { get; set; }
+    [Key,Column("code")]
+    public int Code { get; set; }
 
     [Required, Column("name", TypeName = "nvarchar(50)")]
     public string Name { get; set; }
 
     [Required,Column("faculty_code")]
-    public string FacultyCode { get; set; }
+    public int FacultyCode { get; set; }
 
     //Cardinality
+    [JsonIgnore]
     [ForeignKey(nameof(FacultyCode))]
     public Faculty? Faculty { get; set; }
 

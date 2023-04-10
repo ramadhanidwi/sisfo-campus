@@ -32,15 +32,6 @@ namespace sisfo_campus.Models
         [Required, Column("email"), MaxLength(20)]
         public string Email { get; set; }
 
-        [Required, Column("account_id")]
-        public int AccountId { get; set; }
-
-        //relasi
-        [ForeignKey(nameof(AccountId))]
-        //cardinality
-        [JsonIgnore]
-        public Account? Account { get; set; }
-
         //cardinality
         [JsonIgnore]
         public ICollection<Assignment>? Assignments { get; set; }

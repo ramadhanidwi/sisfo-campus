@@ -28,6 +28,25 @@ namespace sisfo_campus.Migrations
                 });
 
             migrationBuilder.CreateTable(
+                name: "tb_m_lecturers",
+                columns: table => new
+                {
+                    nik = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    first_name = table.Column<string>(type: "nvarchar(50)", maxLength: 50, nullable: false),
+                    last_name = table.Column<string>(type: "nvarchar(50)", maxLength: 50, nullable: true),
+                    address = table.Column<string>(type: "nvarchar(50)", maxLength: 50, nullable: false),
+                    phone_number = table.Column<string>(type: "nvarchar(20)", maxLength: 20, nullable: false),
+                    degree = table.Column<string>(type: "nchar(2)", nullable: false),
+                    gender = table.Column<int>(type: "int", nullable: false),
+                    email = table.Column<string>(type: "nvarchar(20)", maxLength: 20, nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_tb_m_lecturers", x => x.nik);
+                });
+
+            migrationBuilder.CreateTable(
                 name: "tb_m_roles",
                 columns: table => new
                 {
@@ -128,58 +147,6 @@ namespace sisfo_campus.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "tb_m_lecturers",
-                columns: table => new
-                {
-                    nik = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    first_name = table.Column<string>(type: "nvarchar(50)", maxLength: 50, nullable: false),
-                    last_name = table.Column<string>(type: "nvarchar(50)", maxLength: 50, nullable: true),
-                    address = table.Column<string>(type: "nvarchar(50)", maxLength: 50, nullable: false),
-                    phone_number = table.Column<string>(type: "nvarchar(20)", maxLength: 20, nullable: false),
-                    degree = table.Column<string>(type: "nchar(2)", nullable: false),
-                    gender = table.Column<int>(type: "int", nullable: false),
-                    email = table.Column<string>(type: "nvarchar(20)", maxLength: 20, nullable: false),
-                    account_id = table.Column<int>(type: "int", nullable: false)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_tb_m_lecturers", x => x.nik);
-                    table.ForeignKey(
-                        name: "FK_tb_m_lecturers_tb_m_accounts_account_id",
-                        column: x => x.account_id,
-                        principalTable: "tb_m_accounts",
-                        principalColumn: "student_nim",
-                        onDelete: ReferentialAction.Cascade);
-                });
-
-            migrationBuilder.CreateTable(
-                name: "tb_tr_account_roles",
-                columns: table => new
-                {
-                    id = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    account_id = table.Column<int>(type: "int", nullable: false),
-                    role_id = table.Column<int>(type: "int", nullable: false)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_tb_tr_account_roles", x => x.id);
-                    table.ForeignKey(
-                        name: "FK_tb_tr_account_roles_tb_m_accounts_account_id",
-                        column: x => x.account_id,
-                        principalTable: "tb_m_accounts",
-                        principalColumn: "student_nim",
-                        onDelete: ReferentialAction.Cascade);
-                    table.ForeignKey(
-                        name: "FK_tb_tr_account_roles_tb_m_roles_role_id",
-                        column: x => x.role_id,
-                        principalTable: "tb_m_roles",
-                        principalColumn: "id",
-                        onDelete: ReferentialAction.Cascade);
-                });
-
-            migrationBuilder.CreateTable(
                 name: "tb_m_assignments",
                 columns: table => new
                 {
@@ -214,6 +181,32 @@ namespace sisfo_campus.Migrations
                         principalColumn: "nim");
                 });
 
+            migrationBuilder.CreateTable(
+                name: "tb_tr_account_roles",
+                columns: table => new
+                {
+                    id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    account_id = table.Column<int>(type: "int", nullable: false),
+                    role_id = table.Column<int>(type: "int", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_tb_tr_account_roles", x => x.id);
+                    table.ForeignKey(
+                        name: "FK_tb_tr_account_roles_tb_m_accounts_account_id",
+                        column: x => x.account_id,
+                        principalTable: "tb_m_accounts",
+                        principalColumn: "student_nim",
+                        onDelete: ReferentialAction.Cascade);
+                    table.ForeignKey(
+                        name: "FK_tb_tr_account_roles_tb_m_roles_role_id",
+                        column: x => x.role_id,
+                        principalTable: "tb_m_roles",
+                        principalColumn: "id",
+                        onDelete: ReferentialAction.Cascade);
+                });
+
             migrationBuilder.InsertData(
                 table: "tb_m_roles",
                 columns: new[] { "id", "name" },
@@ -243,11 +236,6 @@ namespace sisfo_campus.Migrations
                 name: "IX_tb_m_courses_major_code",
                 table: "tb_m_courses",
                 column: "major_code");
-
-            migrationBuilder.CreateIndex(
-                name: "IX_tb_m_lecturers_account_id",
-                table: "tb_m_lecturers",
-                column: "account_id");
 
             migrationBuilder.CreateIndex(
                 name: "IX_tb_m_majors_faculty_code",
@@ -294,10 +282,10 @@ namespace sisfo_campus.Migrations
                 name: "tb_m_lecturers");
 
             migrationBuilder.DropTable(
-                name: "tb_m_roles");
+                name: "tb_m_accounts");
 
             migrationBuilder.DropTable(
-                name: "tb_m_accounts");
+                name: "tb_m_roles");
 
             migrationBuilder.DropTable(
                 name: "tb_m_students");

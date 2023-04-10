@@ -12,7 +12,7 @@ using sisfo_campus.Contexts;
 namespace sisfo_campus.Migrations
 {
     [DbContext(typeof(MyContext))]
-    [Migration("20230410101848_initialCommit")]
+    [Migration("20230410160323_initialCommit")]
     partial class initialCommit
     {
         /// <inheritdoc />
@@ -177,10 +177,6 @@ namespace sisfo_campus.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Nik"));
 
-                    b.Property<int>("AccountId")
-                        .HasColumnType("int")
-                        .HasColumnName("account_id");
-
                     b.Property<string>("Address")
                         .IsRequired()
                         .HasMaxLength(50)
@@ -220,8 +216,6 @@ namespace sisfo_campus.Migrations
                         .HasColumnName("phone_number");
 
                     b.HasKey("Nik");
-
-                    b.HasIndex("AccountId");
 
                     b.ToTable("tb_m_lecturers");
                 });
@@ -413,17 +407,6 @@ namespace sisfo_campus.Migrations
                         .HasForeignKey("MajorCode");
 
                     b.Navigation("Major");
-                });
-
-            modelBuilder.Entity("sisfo_campus.Models.Lecturer", b =>
-                {
-                    b.HasOne("sisfo_campus.Models.Account", "Account")
-                        .WithMany()
-                        .HasForeignKey("AccountId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Account");
                 });
 
             modelBuilder.Entity("sisfo_campus.Models.Major", b =>

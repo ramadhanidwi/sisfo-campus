@@ -29,7 +29,7 @@ namespace sisfo_campus.Controllers
         [HttpPost("/Register")]
         public async Task<ActionResult> Register(RegisterVM registerVM)
         {
-            try
+            /*try
             {
                 var results = await repository.Register(registerVM);
                 if (results == 0)
@@ -56,6 +56,17 @@ namespace sisfo_campus.Controllers
                     StatusCode = 500,
                     Message = "Something Wrong! + "
                 });
+            }*/
+            try
+            {
+                var result = await repository.Register(registerVM);
+                return result is 0
+                    ? Conflict(new { statusCode = 409, message = "Data fail to Insert!" })
+                    : Ok(new { statusCode = 200, message = "Data Saved Succesfully!" });
+            }
+            catch (Exception ex) 
+            {
+                return BadRequest(new { statusCode = 400, message = "Something Wrong!" + ex.InnerException.Message });
             }
         }
 
@@ -106,7 +117,7 @@ namespace sisfo_campus.Controllers
                     });
                 }
             }
-            catch
+            catch 
             {
                 return BadRequest(new
                 {

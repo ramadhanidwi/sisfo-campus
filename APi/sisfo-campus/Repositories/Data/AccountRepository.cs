@@ -49,7 +49,10 @@ public class AccountRepository : GeneralRepository<int, Account>
         int result = 0;
         Faculty faculty = new Faculty
         {
-            Name = registerVM.FacultyName
+            Code = registerVM.CodeFaculty,
+            Name = registerVM.NameFaculty,            
+            Building = registerVM.Building,
+            PhoneNumber = registerVM.PhoneNumberFaculty
         };
 
         // Bikin kondisi untuk mengecek apakah data faculty sudah ada
@@ -67,10 +70,13 @@ public class AccountRepository : GeneralRepository<int, Account>
 
         Major major = new Major
         {
-            Name = registerVM.MajorName,
+            Code = registerVM.CodeMajor,
+            Name = registerVM.NameMajor,
             FacultyCode = faculty.Code
+            
+
         };
-        await context.Faculties.AddAsync(faculty);
+        await context.Majors.AddAsync(major);
         result = await context.SaveChangesAsync();
 
         Student student= new Student
@@ -78,17 +84,19 @@ public class AccountRepository : GeneralRepository<int, Account>
             Nim = registerVM.Nim,
             FirstName = registerVM.FirstName,
             LastName = registerVM.LastName,
-            BirthDate = registerVM.BirthDate,
+            BirthDate = registerVM.BirthDate,            
             Gender = registerVM.Gender,
             Email = registerVM.Email,
             PhoneNumber = registerVM.PhoneNumber,
+            Address = registerVM.Address,
+            MajorCode = major.Code
         };
         await context.Students.AddAsync(student);
         result = await context.SaveChangesAsync();
 
         Account account = new Account
         {
-            StudentNim = registerVM.Nim,
+            StudentNim = student.Nim,
             Password = Hashing.HashPassword(registerVM.Password)
         };
         await context.Accounts.AddAsync(account);
@@ -96,7 +104,7 @@ public class AccountRepository : GeneralRepository<int, Account>
 
         AccountRole accountRole = new AccountRole
         {
-            AccountId = registerVM.Nim,
+            AccountId = student.Nim,
             RoleId = 3
         };
 

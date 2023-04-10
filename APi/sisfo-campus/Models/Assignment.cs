@@ -20,18 +20,22 @@ public class Assignment
     public string CourseCode { get; set; }
 
     [Column("students_nim")]
-    public string StudentsNim { get; set; }
+    public string StudentNim { get; set; }
 
     [Column("lecturer_nik")]
     public string LecturerNik { get; set; }
 
     //Cardinality
     [JsonIgnore]
+    [ForeignKey(nameof(CourseCode))]
     public Course? Course { get; set; }
 
     [JsonIgnore]
+    [ForeignKey(nameof(StudentNim))]
     public Student? Student{ get; set; }
 
+    [ForeignKey(nameof(LecturerNik))]
     [JsonIgnore]
     public Lecturer? Lecturer{ get; set; }
+
 }

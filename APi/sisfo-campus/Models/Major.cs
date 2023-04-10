@@ -13,10 +13,16 @@ public class Major
     [Required, Column("name", TypeName = "nvarchar(50)")]
     public string Name { get; set; }
 
-    [Column("faculty_code", TypeName = "nchar(5)")]
+    [Required,Column("faculty_code")]
     public string FacultyCode { get; set; }
+
+    //Cardinality
+    [ForeignKey(nameof(FacultyCode))]
+    public Faculty? Faculty { get; set; }
+
+
+    [JsonIgnore]
+    public ICollection<Course>? Courses { get; set; }
 }
 
-//Cardinality
-[JsonIgnore]
-public Faculty Faculty { get; set; }
+

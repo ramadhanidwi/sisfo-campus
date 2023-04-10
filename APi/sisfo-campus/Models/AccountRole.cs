@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Text.Json.Serialization;
 
 namespace sisfo_campus.Models;
 
@@ -19,8 +20,10 @@ public class AccountRole
 
     //Cardinality And Relations 
     [ForeignKey(nameof(AccountId))]
+    [JsonIgnore]
     public Account? Account { get; set; }
 
     [ForeignKey(nameof(RoleId))]
+    [JsonIgnore]
     public Role? Role { get; set; }
 }

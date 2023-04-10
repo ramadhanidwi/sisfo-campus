@@ -21,6 +21,7 @@ public class MyContext : DbContext
     public DbSet<Lecturer> Lecturers { get; set; }
     public DbSet<Course> Courses { get; set; }
 
+    //Fluent APi
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         base.OnModelCreating(modelBuilder);

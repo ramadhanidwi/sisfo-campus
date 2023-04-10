@@ -12,7 +12,7 @@ using sisfo_campus.Contexts;
 namespace sisfo_campus.Migrations
 {
     [DbContext(typeof(MyContext))]
-    [Migration("20230410175953_InitalCommit")]
+    [Migration("20230410185231_InitalCommit")]
     partial class InitalCommit
     {
         /// <inheritdoc />
@@ -309,8 +309,8 @@ namespace sisfo_campus.Migrations
 
                     b.Property<string>("Email")
                         .IsRequired()
-                        .HasMaxLength(20)
-                        .HasColumnType("nvarchar(20)")
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)")
                         .HasColumnName("email");
 
                     b.Property<string>("FirstName")

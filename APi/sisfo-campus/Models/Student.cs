@@ -28,7 +28,7 @@ namespace sisfo_campus.Models
         [Required, Column("address"), MaxLength(50)]
         public string Address { get; set; }        
 
-        [Required, Column("email"), MaxLength(20)]
+        [Required, Column("email"), MaxLength(50)]
         public string Email { get; set; }
 
         [Column("major_code")]

@@ -111,7 +111,7 @@ namespace sisfo_campus.Migrations
                     gender = table.Column<int>(type: "int", nullable: false),
                     phone_number = table.Column<string>(type: "nvarchar(20)", maxLength: 20, nullable: false),
                     address = table.Column<string>(type: "nvarchar(50)", maxLength: 50, nullable: false),
-                    email = table.Column<string>(type: "nvarchar(20)", maxLength: 20, nullable: false),
+                    email = table.Column<string>(type: "nvarchar(50)", maxLength: 50, nullable: false),
                     major_code = table.Column<int>(type: "int", nullable: true),
                     course_code = table.Column<int>(type: "int", nullable: true)
                 },

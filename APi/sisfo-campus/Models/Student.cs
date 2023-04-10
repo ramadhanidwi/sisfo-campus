@@ -55,7 +55,7 @@ namespace sisfo_campus.Models
                 
         //cardinality
         [JsonIgnore]
-        public ICollection<Task>? Tasks { get; set; }
+        public ICollection<Assignment>? Assignments { get; set; }
 
     }
     public enum GenderEnum

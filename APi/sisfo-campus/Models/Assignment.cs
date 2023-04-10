@@ -11,27 +11,30 @@ public class Assignment
     public int Id { get; set; }
 
     [Required, Column("name", TypeName = "nvarchar(20)")]
-    public string name { get; set; }
+    public string Name { get; set; }
 
     [Required, Column("upload_date")]
     public DateTime UploadDate { get; set; }
 
+    [Column("score")]
+    public int? Score { get; set; }
+
     [Column("course_code")]
     public string CourseCode { get; set; }
 
-    [Column("students_nim")]
-    public string StudentNim { get; set; }
+    [Column("student_nim")]
+    public int? StudentNim { get; set; }
 
     [Column("lecturer_nik")]
-    public string LecturerNik { get; set; }
+    public int LecturerNik { get; set; }
 
     //Cardinality
-    [JsonIgnore]
     [ForeignKey(nameof(CourseCode))]
-    public Course? Course { get; set; }
-
     [JsonIgnore]
+    public Course? Course { get; set; }
+    
     [ForeignKey(nameof(StudentNim))]
+    [JsonIgnore]
     public Student? Student{ get; set; }
 
     [ForeignKey(nameof(LecturerNik))]

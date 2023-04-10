@@ -97,7 +97,7 @@ public class AccountRepository : GeneralRepository<int, Account>
         AccountRole accountRole = new AccountRole
         {
             AccountId = registerVM.Nim,
-            RoleId = 2
+            RoleId = 3
         };
 
         await context.AccountRoles.AddAsync(accountRole);

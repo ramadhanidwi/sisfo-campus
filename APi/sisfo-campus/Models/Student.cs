@@ -16,6 +16,9 @@ namespace sisfo_campus.Models
         [Column("last_name"), MaxLength(50)]
         public string? LastName { get; set; }
 
+        [Required, Column("birthdate")]
+        public DateTime BirthDate { get; set; }
+
         [Required, Column("phone_number"), MaxLength(20)]
         public string PhoneNumber { get; set; }
 
@@ -49,7 +52,7 @@ namespace sisfo_campus.Models
 
         //cardinality
         [JsonIgnore]
-        public ICollection<Account>? Accounts { get; set; }
+        public Account? Account { get; set; }
 
         //cardinality
         [JsonIgnore]

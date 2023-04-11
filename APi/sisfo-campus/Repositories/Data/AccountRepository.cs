@@ -45,9 +45,7 @@ public class AccountRepository : GeneralRepository<int, Account>
         // Bikin kondisi untuk mengecek apakah data faculty sudah ada
         if (await context.Faculties.AnyAsync(f => f.Name == faculty.Name))
         {
-            faculty.Code= context.Faculties
-                .FirstOrDefault(f => f.Name == faculty.Name)
-                .Code;
+            faculty.Code= context.Faculties.FirstOrDefault(f => f.Name == faculty.Name).Code;
         }
         else
         {
@@ -60,8 +58,17 @@ public class AccountRepository : GeneralRepository<int, Account>
             Name = registerVM.MajorName,
             FacultyCode = faculty.Code
         };
+
+        if (await context.Majors.AnyAsync(m => m.Name == major.Name))
+        {
+            major.Code = context.Majors.FirstOrDefault(m => m.Name == major.Name).Code;
+        }
+        else
+        {
         await context.Majors.AddAsync(major);
         result = await context.SaveChangesAsync();
+
+        }
 
         Student student= new Student
         {

@@ -7,8 +7,8 @@ namespace sisfo_campus.Models;
 [Table("tb_m_accounts")]
 public class Account
 {
-    [Key, Column("student_nim")]
-    public int StudentNim { get; set; }
+    [Key, Column("student_nim", TypeName = "nchar(5)")]
+    public string StudentNim { get; set; }
 
     [Required, Column("password"), MaxLength(255)]
     public string Password { get; set; }
@@ -16,6 +16,7 @@ public class Account
     //Cardinality
     [JsonIgnore]
     public ICollection<AccountRole>? AccountRoles { get; set; }
+
     [JsonIgnore]
     public Student? Student { get; set; }
 }

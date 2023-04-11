@@ -4,11 +4,12 @@ using sisfo_campus.Base;
 using sisfo_campus.Models;
 using sisfo_campus.Repositories.Data;
 
+using sisfo_campus.Repositories.Data;
 namespace sisfo_campus.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class FacultiesController : BaseController<string, Faculty, FacultyRepository>
+    public class FacultiesController : BaseController<int, Faculty, FacultyRepository>
     {
         public FacultiesController(FacultyRepository repository) : base(repository)
         {

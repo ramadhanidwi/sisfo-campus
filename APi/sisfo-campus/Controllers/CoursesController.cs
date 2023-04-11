@@ -8,7 +8,7 @@ namespace sisfo_campus.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class CoursesController : BaseController<string, Course, CourseRepository>
+    public class CoursesController : BaseController<int, Course, CourseRepository>
     {
         public CoursesController(CourseRepository repository) : base(repository)
         {

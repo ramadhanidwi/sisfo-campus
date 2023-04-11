@@ -7,8 +7,8 @@ namespace sisfo_campus.Models
     [Table("tb_m_courses")]
     public class Course
     {
-        [Key, Column("code", TypeName = "nchar(5)")]
-        public string Code { get; set; }
+        [Key, Column("code")]
+        public int Code { get; set; }
 
         [Required, Column("name"), MaxLength(50)]
         public string Name { get; set; }
@@ -16,8 +16,8 @@ namespace sisfo_campus.Models
         [Required, Column("units")]
         public int Units { get; set; }
 
-        [Column("major_code", TypeName = "nchar(5)")]
-        public string? MajorCode { get; set; }
+        [Column("major_code")]
+        public int? MajorCode { get; set; }
 
         //relasi
         [ForeignKey(nameof(MajorCode))]

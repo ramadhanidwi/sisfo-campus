@@ -7,8 +7,8 @@ namespace sisfo_campus.Models
     [Table("tb_m_faculties")]
     public class Faculty
     {
-        [Key, Column("code", TypeName = "nchar(5)")]
-        public string Code { get; set; }
+        [Key, Column("code")]
+        public int Code { get; set; }
 
         [Required, Column("name"), MaxLength(50)]
         public string Name { get; set; }

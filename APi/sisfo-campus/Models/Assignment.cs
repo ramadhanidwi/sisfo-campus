@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Diagnostics.Contracts;
 using System.Text.Json.Serialization;
 
 namespace sisfo_campus.Models;
@@ -11,7 +12,7 @@ public class Assignment
     public int Id { get; set; }
 
     [Required, Column("name", TypeName = "nvarchar(20)")]
-    public string Name { get; set; }
+    public string name { get; set; }
 
     [Required, Column("upload_date")]
     public DateTime UploadDate { get; set; }
@@ -20,25 +21,25 @@ public class Assignment
     public int? Score { get; set; }
 
     [Column("course_code")]
-    public string CourseCode { get; set; }
+    public int CourseCode { get; set; }
 
     [Column("student_nim")]
-    public int? StudentNim { get; set; }
+    public string? StudentNim { get; set; }
 
     [Column("lecturer_nik")]
     public int LecturerNik { get; set; }
 
     //Cardinality
+    [JsonIgnore]
     [ForeignKey(nameof(CourseCode))]
-    [JsonIgnore]
     public Course? Course { get; set; }
-    
-    [ForeignKey(nameof(StudentNim))]
+
     [JsonIgnore]
+    [ForeignKey(nameof(StudentNim))]
     public Student? Student{ get; set; }
 
-    [ForeignKey(nameof(LecturerNik))]
     [JsonIgnore]
+    [ForeignKey(nameof(LecturerNik))]
     public Lecturer? Lecturer{ get; set; }
 
 }

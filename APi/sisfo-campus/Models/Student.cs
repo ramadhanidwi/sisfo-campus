@@ -7,8 +7,8 @@ namespace sisfo_campus.Models
     [Table("tb_m_students")]
     public class Student
     {
-        [Key, Column("nim")]
-        public int Nim { get; set; }
+        [Key, Column("nim", TypeName = "nchar(5)")]
+        public string Nim { get; set; }
 
         [Required, Column("first_name"), MaxLength(50)]
         public string FirstName { get; set; }
@@ -28,14 +28,14 @@ namespace sisfo_campus.Models
         [Required, Column("address"), MaxLength(50)]
         public string Address { get; set; }        
 
-        [Required, Column("email"), MaxLength(20)]
+        [Required, Column("email"), MaxLength(50)]
         public string Email { get; set; }
 
-        [Column("major_code", TypeName = "nchar(5)")]
-        public string? MajorCode { get; set; }
+        [Column("major_code")]
+        public int? MajorCode { get; set; }
 
-        [Column("course_code", TypeName = "nchar(5)")]
-        public string? CourseCode { get; set; }
+        [Column("course_code")]
+        public int? CourseCode { get; set; }
 
 
         //relasi
@@ -55,7 +55,7 @@ namespace sisfo_campus.Models
                 
         //cardinality
         [JsonIgnore]
-        public ICollection<Assignment>? Assignments { get; set; }
+        public ICollection<Assignment>? Assignment { get; set; }
 
     }
     public enum GenderEnum

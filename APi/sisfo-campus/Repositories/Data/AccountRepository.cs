@@ -27,16 +27,6 @@ public class AccountRepository : GeneralRepository<int, Account>
                 Password = s.Account.Password
             }).SingleOrDefaultAsync(a => a.Email == loginVM.Email);
 
-        //var getAccounts = context.Employees.Join(
-        //    context.Accounts,
-        //    e => e.NIK,
-        //    a => a.EmployeeNIK,
-        //    (e, a) => new LoginVM
-        //    {
-        //        Email = e.Email,
-        //        Password = a.Password
-        //    }).FirstOrDefault(a => a.Email == loginVM.Email);
-
         if (getAccounts is null)
         {
             return false;
@@ -49,18 +39,13 @@ public class AccountRepository : GeneralRepository<int, Account>
         int result = 0;
         Faculty faculty = new Faculty
         {
-            Code = registerVM.CodeFaculty,
-            Name = registerVM.NameFaculty,            
-            Building = registerVM.Building,
-            PhoneNumber = registerVM.PhoneNumberFaculty
+            Name = registerVM.FacultyName
         };
 
         // Bikin kondisi untuk mengecek apakah data faculty sudah ada
         if (await context.Faculties.AnyAsync(f => f.Name == faculty.Name))
         {
-            faculty.Code= context.Faculties
-                .FirstOrDefault(f => f.Name == faculty.Name)
-                .Code;
+            faculty.Code= context.Faculties.FirstOrDefault(f => f.Name == faculty.Name).Code;
         }
         else
         {
@@ -70,33 +55,39 @@ public class AccountRepository : GeneralRepository<int, Account>
 
         Major major = new Major
         {
-            Code = registerVM.CodeMajor,
-            Name = registerVM.NameMajor,
+            Name = registerVM.MajorName,
             FacultyCode = faculty.Code
-            
-
         };
+
+        if (await context.Majors.AnyAsync(m => m.Name == major.Name))
+        {
+            major.Code = context.Majors.FirstOrDefault(m => m.Name == major.Name).Code;
+        }
+        else
+        {
         await context.Majors.AddAsync(major);
         result = await context.SaveChangesAsync();
+
+        }
 
         Student student= new Student
         {
             Nim = registerVM.Nim,
             FirstName = registerVM.FirstName,
             LastName = registerVM.LastName,
-            BirthDate = registerVM.BirthDate,            
+            BirthDate = registerVM.BirthDate,
             Gender = registerVM.Gender,
-            Email = registerVM.Email,
             PhoneNumber = registerVM.PhoneNumber,
             Address = registerVM.Address,
-            MajorCode = major.Code
+            Email = registerVM.Email
+
         };
         await context.Students.AddAsync(student);
         result = await context.SaveChangesAsync();
 
         Account account = new Account
         {
-            StudentNim = student.Nim,
+            StudentNim = registerVM.Nim,
             Password = Hashing.HashPassword(registerVM.Password)
         };
         await context.Accounts.AddAsync(account);
@@ -104,7 +95,7 @@ public class AccountRepository : GeneralRepository<int, Account>
 
         AccountRole accountRole = new AccountRole
         {
-            AccountId = student.Nim,
+            AccountId = registerVM.Nim,
             RoleId = 3
         };
 
@@ -114,41 +105,9 @@ public class AccountRepository : GeneralRepository<int, Account>
         return result;
     }
 
-    //public async Task<List<AccountEmployeeVM>> GetEmployeeAccount()
-    //{
-    //    var results = (from a in GetAll()
-    //                   join e in empRepository.GetAll()
-    //                   on a.EmployeeNIK equals e.NIK
-    //                   select new AccountEmployeeVM
-    //                   {
-    //                       Email = e.Email,
-    //                       Password = a.Password
-    //                   }).ToList();
-    //    return results;
-    //}
 
     public async Task<UserDataVM> GetUserData(string email)
     {
-        //Menggunakan Method Syntax
-        //var userdataMethod = context.Employees
-        //  .Join(context.Accounts,
-        //  e => e.NIK,
-        //  a => a.EmployeeNIK,
-        //  (e, a) => new { e, a })
-        //  .Join(context.AccountRoles,
-        //  ea => ea.a.EmployeeNIK,
-        //  ar => ar.AccountNIK,
-        //  (ea, ar) => new { ea, ar })
-        //  .Join(context.Roles,
-        //  eaar => eaar.ar.RoleId,
-        //  r => r.Id,
-        //  (eaar, r) => new UserDataVM
-        //  {
-        //      Email = eaar.ea.e.Email,
-        //      FullName = String.Concat(eaar.ea.e.FirstName, eaar.ea.e.LastName),
-        //      Role = r.Name
-        //  }).FirstOrDefault(u => u.Email == email);
-
         //Menggunakan Query Syntax 
         var userdata = await (from s in context.Students //seharusnya jangan pake context tapi import dari repository nya table bersangkutan
                               join a in context.Accounts
@@ -163,18 +122,18 @@ public class AccountRepository : GeneralRepository<int, Account>
                                   Email = s.Email,
                                   FullName = string.Concat(s.FirstName, " ", s.LastName)
                               }).FirstOrDefaultAsync();
-
         return userdata;
     }
 
     public async Task<List<string>> GetRolesByNIK(string email)
     {
         var getNIK = await context.Students.FirstOrDefaultAsync(s => s.Email == email);
-        return context.AccountRoles.Where(ar => ar.AccountId == getNIK.Nim).Join(
+        var aa = context.AccountRoles.Where(ar => ar.AccountId == getNIK.Nim).Join(
             context.Roles,
             ar => ar.RoleId,
             r => r.Id,
             (ar, r) => r.Name).ToList();
+        return aa;
     }
 }
 

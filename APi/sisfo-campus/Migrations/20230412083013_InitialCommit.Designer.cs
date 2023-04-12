@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using sisfo_campus.Contexts;
 
@@ -11,9 +12,16 @@ using sisfo_campus.Contexts;
 namespace sisfo_campus.Migrations
 {
     [DbContext(typeof(MyContext))]
-    partial class MyContextModelSnapshot : ModelSnapshot
+<<<<<<<< HEAD:APi/sisfo-campus/Migrations/20230411064559_initialCommit.Designer.cs
+    [Migration("20230411064559_initialCommit")]
+    partial class initialCommit
+========
+    [Migration("20230412083013_InitialCommit")]
+    partial class InitialCommit
+>>>>>>>> rama:APi/sisfo-campus/Migrations/20230412083013_InitialCommit.Designer.cs
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

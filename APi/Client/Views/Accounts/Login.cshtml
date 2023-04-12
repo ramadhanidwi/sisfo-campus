@@ -4,49 +4,6 @@
     ViewData["Title"] = "Login";
 }
 
-@*<h1>Login</h1>
-
-<h4>Account</h4>
-<hr />
-<div class="row">
-    <div class="col-md-4">
-        <form asp-action="Login">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
-                <label asp-for="Email" class="control-label"></label>
-                <input asp-for="Email" class="form-control" asp-items="ViewBag.EmployeeNIK"></input>
-            </div>
-            <div class="form-group">
-                <label asp-for="Password" class="control-label"></label>
-                <input asp-for="Password" class="form-control" />
-                <span asp-validation-for="Password" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <input type="submit" value="Login" class="btn btn-primary" />
-            </div>
-        </form>
-    </div>
-</div>
-
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
-*@
-
-<!--
-=========================================================
-* Soft UI Dashboard - v1.0.7
-=========================================================
-
-* Product Page: https://www.creative-tim.com/product/soft-ui-dashboard
-* Copyright 2022 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://www.creative-tim.com/license)
-* Coded by Creative Tim
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
--->
 <!DOCTYPE html>
 <html lang="en">
 
@@ -78,7 +35,7 @@
                 <nav class="navbar navbar-expand-lg blur blur-rounded top-0 z-index-3 shadow position-absolute my-3 py-2 start-0 end-0 mx-4">
                     <div class="container-fluid pe-0">
                         <a class="navbar-brand font-weight-bolder ms-lg-0 ms-3 " href="../pages/dashboard.html">
-                            Soft UI Dashboard
+                            Sistem Informasi Kampus
                         </a>
                         <button class="navbar-toggler shadow-none ms-2" type="button" data-bs-toggle="collapse" data-bs-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
                             <span class="navbar-toggler-icon mt-2">
@@ -89,7 +46,7 @@
                         </button>
                         <div class="collapse navbar-collapse" id="navigation">
                             <ul class="navbar-nav mx-auto ms-xl-auto me-xl-7">
-                                <li class="nav-item">
+@*                                <li class="nav-item">
                                     <a class="nav-link d-flex align-items-center me-2 active" aria-current="page" href="../pages/dashboard.html">
                                         <i class="fa fa-chart-pie opacity-6 text-dark me-1"></i>
                                         Dashboard
@@ -100,7 +57,7 @@
                                         <i class="fa fa-user opacity-6 text-dark me-1"></i>
                                         Profile
                                     </a>
-                                </li>
+                                </li>*@
                                 <li class="nav-item">
                                     <a class="nav-link me-2" href="../pages/sign-up.html">
                                         <i class="fas fa-user-circle opacity-6 text-dark me-1"></i>
@@ -114,14 +71,14 @@
                                     </a>
                                 </li>
                             </ul>
-                            <li class="nav-item d-flex align-items-center">
+@*                            <li class="nav-item d-flex align-items-center">
                                 <a class="btn btn-round btn-sm mb-0 btn-outline-primary me-2" target="_blank" href="https://www.creative-tim.com/builder/soft-ui?ref=navbar-dashboard">Online Builder</a>
                             </li>
                             <ul class="navbar-nav d-lg-block d-none">
                                 <li class="nav-item">
                                     <a href="https://www.creative-tim.com/product/soft-ui-dashboard" class="btn btn-sm btn-round mb-0 me-1 bg-gradient-dark">Free download</a>
                                 </li>
-                            </ul>
+                            </ul>*@
                         </div>
                     </div>
                 </nav>
@@ -169,7 +126,7 @@
                         </div>
                         <div class="col-md-6">
                             <div class="oblique position-absolute top-0 h-100 d-md-block d-none me-n8">
-                                <div class="oblique-image bg-cover position-absolute fixed-top ms-auto h-100 z-index-0 ms-n6" style="background-image:url('~/img/curved-images/curved6.jpg')"></div>
+                                <div class="oblique-image bg-cover position-absolute fixed-top ms-auto h-100 z-index-0 ms-n6" style="background-image:url('~/img/curved-images/curved6.jpg');"></div>
                             </div>
                         </div>
                     </div>
@@ -181,7 +138,7 @@
     <footer class="footer py-5">
         <div class="container">
             <div class="row">
-                <div class="col-lg-8 mb-4 mx-auto text-center">
+               @* <div class="col-lg-8 mb-4 mx-auto text-center">
                     <a href="javascript:;" target="_blank" class="text-secondary me-xl-5 me-3 mb-sm-0 mb-2">
                         Company
                     </a>
@@ -228,7 +185,7 @@
                     </p>
                 </div>
             </div>
-        </div>
+        </div>*@
     </footer>
     <!-- -------- END FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
     <!--   Core JS Files   -->
@@ -252,3 +209,4 @@
 </body>
 
 </html>
+

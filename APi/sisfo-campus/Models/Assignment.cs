@@ -29,6 +29,9 @@ public class Assignment
     [Column("lecturer_nik")]
     public int LecturerNik { get; set; }
 
+    [Column("attachment_file_id")]
+    public Int64 AttachmentFileId { get; set; }
+
     //Cardinality
     [JsonIgnore]
     [ForeignKey(nameof(CourseCode))]
@@ -41,5 +44,9 @@ public class Assignment
     [JsonIgnore]
     [ForeignKey(nameof(LecturerNik))]
     public Lecturer? Lecturer{ get; set; }
+
+    [JsonIgnore]
+    [ForeignKey(nameof(AttachmentFileId))]
+    public ICollection<AttachmentFile>? AttachmentFiles{ get; set; }
 
 }

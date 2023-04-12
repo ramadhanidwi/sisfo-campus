@@ -18,4 +18,9 @@ public interface iRepository<Key,Entity> where Entity : class
 
     //Delete 
     Task<int> Delete(Key key);
+
+    //Method For Attachment File
+    //string UploadedFile(IFormFile ProfilePicture);
+    //Tuple<byte[], string> GetDownloadDetails(Int64 id);
+    //Task<Entity> AddAttachmentFile(IFormFile _IFormFile);
 }

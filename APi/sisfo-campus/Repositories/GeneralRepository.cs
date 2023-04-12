@@ -45,4 +45,5 @@ public class GeneralRepository<Key, Entity> :  iRepository<Key,Entity> where Ent
         context.Entry(entity).State = EntityState.Modified;
         return await context.SaveChangesAsync();
     }
+
 }

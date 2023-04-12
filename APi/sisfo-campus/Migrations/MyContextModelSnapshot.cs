@@ -75,6 +75,10 @@ namespace sisfo_campus.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<long>("AttachmentFileId")
+                        .HasColumnType("bigint")
+                        .HasColumnName("attachment_file_id");
+
                     b.Property<int>("CourseCode")
                         .HasColumnType("int")
                         .HasColumnName("course_code");
@@ -109,6 +113,61 @@ namespace sisfo_campus.Migrations
                     b.HasIndex("StudentNim");
 
                     b.ToTable("tb_m_assignments");
+                });
+
+            modelBuilder.Entity("sisfo_campus.Models.AttachmentFile", b =>
+                {
+                    b.Property<long>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("bigint")
+                        .HasColumnName("id");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<long>("Id"));
+
+                    b.Property<int?>("AttachmentFileId")
+                        .HasColumnType("int");
+
+                    b.Property<bool>("Cancelled")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("ContentType")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(255)")
+                        .HasColumnName("content_type");
+
+                    b.Property<string>("CreatedBy")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("CreatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("FileName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(50)")
+                        .HasColumnName("file_name");
+
+                    b.Property<string>("FilePath")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(255)")
+                        .HasColumnName("file_path");
+
+                    b.Property<long>("Length")
+                        .HasColumnType("bigint")
+                        .HasColumnName("length");
+
+                    b.Property<string>("ModifiedBy")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("ModifiedDate")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("AttachmentFileId");
+
+                    b.ToTable("tb_m_attachment_files");
                 });
 
             modelBuilder.Entity("sisfo_campus.Models.Course", b =>
@@ -399,6 +458,15 @@ namespace sisfo_campus.Migrations
                     b.Navigation("Student");
                 });
 
+            modelBuilder.Entity("sisfo_campus.Models.AttachmentFile", b =>
+                {
+                    b.HasOne("sisfo_campus.Models.Assignment", "Assignment")
+                        .WithMany("AttachmentFiles")
+                        .HasForeignKey("AttachmentFileId");
+
+                    b.Navigation("Assignment");
+                });
+
             modelBuilder.Entity("sisfo_campus.Models.Course", b =>
                 {
                     b.HasOne("sisfo_campus.Models.Major", "Major")
@@ -437,6 +505,11 @@ namespace sisfo_campus.Migrations
             modelBuilder.Entity("sisfo_campus.Models.Account", b =>
                 {
                     b.Navigation("AccountRoles");
+                });
+
+            modelBuilder.Entity("sisfo_campus.Models.Assignment", b =>
+                {
+                    b.Navigation("AttachmentFiles");
                 });
 
             modelBuilder.Entity("sisfo_campus.Models.Course", b =>

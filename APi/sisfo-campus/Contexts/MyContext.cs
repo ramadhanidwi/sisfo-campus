@@ -20,6 +20,7 @@ public class MyContext : DbContext
     public DbSet<Faculty> Faculties { get; set; }
     public DbSet<Lecturer> Lecturers { get; set; }
     public DbSet<Course> Courses { get; set; }
+    public DbSet<AttachmentFile> AttachmentFiles{ get; set; }
 
     //Fluent APi
     protected override void OnModelCreating(ModelBuilder modelBuilder)

@@ -17,7 +17,6 @@ public class Major
     public int FacultyCode { get; set; }
 
     //Cardinality
-    [JsonIgnore]
     [ForeignKey(nameof(FacultyCode))]
     [JsonIgnore]
     public Faculty? Faculty { get; set; }

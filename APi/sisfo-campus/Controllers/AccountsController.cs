@@ -58,7 +58,7 @@ public class AccountController : BaseController<int, Account, AccountRepository>
         }
     }
 
-    [HttpPost("/Login")]
+    [HttpPost("Login")]
     public async Task<ActionResult> Login(LoginVM loginVM)
     {
         try

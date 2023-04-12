@@ -12,8 +12,8 @@ using sisfo_campus.Contexts;
 namespace sisfo_campus.Migrations
 {
     [DbContext(typeof(MyContext))]
-    [Migration("20230410185231_InitalCommit")]
-    partial class InitalCommit
+    [Migration("20230411064559_initialCommit")]
+    partial class initialCommit
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

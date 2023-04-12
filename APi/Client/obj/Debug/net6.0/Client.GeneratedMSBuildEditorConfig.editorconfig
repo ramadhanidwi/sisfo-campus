@@ -16,8 +16,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\Client
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/RONALDO WIJAYA/source/repos/sisfo-campus/APi/Client/Views/Account/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+[C:/Users/RONALDO WIJAYA/source/repos/sisfo-campus/APi/Client/Views/Accounts/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/RONALDO WIJAYA/source/repos/sisfo-campus/APi/Client/Views/Home/Index.cshtml]

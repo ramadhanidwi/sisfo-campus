@@ -16,8 +16,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\Client
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/KERJA/MCC/Pemrograman/Segmen 4 Proyek Akhir/Final Test/APi/Client/Views/Account/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+[D:/KERJA/MCC/Pemrograman/Segmen 4 Proyek Akhir/Final Test/APi/Client/Views/Accounts/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/KERJA/MCC/Pemrograman/Segmen 4 Proyek Akhir/Final Test/APi/Client/Views/Home/Index.cshtml]

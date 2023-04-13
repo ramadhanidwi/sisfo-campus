@@ -1,3 +1,71 @@
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\appsettings.json
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\sisfo-campus.exe
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\sisfo-campus.deps.json
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\sisfo-campus.runtimeconfig.json
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\sisfo-campus.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\sisfo-campus.pdb
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Humanizer.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.csproj.AssemblyReference.cache
 C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.AssemblyInfoInputs.cache
@@ -5,92 +73,17 @@ C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net
 C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.csproj.CoreCompileInputs.cache
 C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.MvcApplicationPartsAssemblyInfo.cache
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.csproj.AssemblyReference.cache
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.GeneratedMSBuildEditorConfig.editorconfig
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.AssemblyInfoInputs.cache
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.AssemblyInfo.cs
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.csproj.CoreCompileInputs.cache
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.MvcApplicationPartsAssemblyInfo.cs
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.MvcApplicationPartsAssemblyInfo.cache
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\appsettings.Development.json
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\appsettings.json
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\sisfo-campus.exe
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\sisfo-campus.deps.json
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\sisfo-campus.runtimeconfig.json
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\sisfo-campus.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\sisfo-campus.pdb
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Azure.Core.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Azure.Identity.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\BCrypt.Net-Next.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Humanizer.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.OpenApi.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Mono.TextTemplating.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\System.CodeDom.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\System.Drawing.Common.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\System.Memory.Data.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\System.Runtime.Caching.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\System.Security.Permissions.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\System.Text.Encodings.Web.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\System.Text.Json.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\System.Windows.Extensions.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\obj\Debug\net6.0\staticwebassets\msbuild.sisfo-campus.Microsoft.AspNetCore.StaticWebAssets.props
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\obj\Debug\net6.0\staticwebassets\msbuild.build.sisfo-campus.props
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.sisfo-campus.props
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.sisfo-campus.props
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\obj\Debug\net6.0\staticwebassets.pack.json
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\obj\Debug\net6.0\staticwebassets.build.json
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\obj\Debug\net6.0\staticwebassets.development.json
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\obj\Debug\net6.0\scopedcss\bundle\sisfo-campus.styles.css
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.csproj.CopyComplete
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\obj\Debug\net6.0\refint\sisfo-campus.dll
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.pdb
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.genruntimeconfig.cache
-D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\sisfo-campus\obj\Debug\net6.0\ref\sisfo-campus.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\staticwebassets\msbuild.sisfo-campus.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\staticwebassets\msbuild.build.sisfo-campus.props
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.sisfo-campus.props
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.sisfo-campus.props
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\scopedcss\bundle\sisfo-campus.styles.css
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.csproj.CopyComplete
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\refint\sisfo-campus.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.pdb
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.genruntimeconfig.cache
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\ref\sisfo-campus.dll

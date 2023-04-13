@@ -75,7 +75,7 @@ namespace sisfo_campus.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<long>("AttachmentFileId")
+                    b.Property<long?>("AttachmentFileId")
                         .HasColumnType("bigint")
                         .HasColumnName("attachment_file_id");
 

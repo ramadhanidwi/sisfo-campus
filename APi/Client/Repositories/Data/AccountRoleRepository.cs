@@ -11,7 +11,7 @@ public class AccountRoleRepository : GeneralRepository<AccountRole, int>
         this.request = request;
         _httpClient = new HttpClient
         {
-            BaseAddress = new Uri("https://localhost:7049/api/")
+            BaseAddress = new Uri("https://localhost:7024/api/")
         };
     }
 }

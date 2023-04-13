@@ -1,1343 +1,2283 @@
 {
   "Files": [
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Client.bundle.scp.css",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Client.bundle.scp.css",
       "PackagePath": "staticwebassets\\Client.bundle.scp.css"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\css\\nucleo-icons.css",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\css\\material-dashboard.css",
+      "PackagePath": "staticwebassets\\css\\material-dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\css\\material-dashboard.css.map",
+      "PackagePath": "staticwebassets\\css\\material-dashboard.css.map"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\css\\material-dashboard.min.css",
+      "PackagePath": "staticwebassets\\css\\material-dashboard.min.css"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\css\\nucleo-icons.css",
       "PackagePath": "staticwebassets\\css\\nucleo-icons.css"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\css\\nucleo-svg.css",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\css\\nucleo-svg.css",
       "PackagePath": "staticwebassets\\css\\nucleo-svg.css"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\css\\soft-ui-dashboard.css",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\css\\soft-ui-dashboard.css",
       "PackagePath": "staticwebassets\\css\\soft-ui-dashboard.css"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\css\\soft-ui-dashboard.css.map",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\css\\soft-ui-dashboard.css.map",
       "PackagePath": "staticwebassets\\css\\soft-ui-dashboard.css.map"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\css\\soft-ui-dashboard.min.css",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\css\\soft-ui-dashboard.min.css",
       "PackagePath": "staticwebassets\\css\\soft-ui-dashboard.min.css"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\fonts\\nucleo-icons.eot",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\fonts\\nucleo-icons.eot",
       "PackagePath": "staticwebassets\\fonts\\nucleo-icons.eot"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\fonts\\nucleo-icons.svg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\fonts\\nucleo-icons.svg",
       "PackagePath": "staticwebassets\\fonts\\nucleo-icons.svg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\fonts\\nucleo-icons.ttf",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\fonts\\nucleo-icons.ttf",
       "PackagePath": "staticwebassets\\fonts\\nucleo-icons.ttf"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\fonts\\nucleo-icons.woff",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\fonts\\nucleo-icons.woff",
       "PackagePath": "staticwebassets\\fonts\\nucleo-icons.woff"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\fonts\\nucleo-icons.woff2",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\fonts\\nucleo-icons.woff2",
       "PackagePath": "staticwebassets\\fonts\\nucleo-icons.woff2"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\fonts\\nucleo.eot",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\fonts\\nucleo.eot",
       "PackagePath": "staticwebassets\\fonts\\nucleo.eot"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\fonts\\nucleo.ttf",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\fonts\\nucleo.ttf",
       "PackagePath": "staticwebassets\\fonts\\nucleo.ttf"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\fonts\\nucleo.woff",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\fonts\\nucleo.woff",
       "PackagePath": "staticwebassets\\fonts\\nucleo.woff"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\fonts\\nucleo.woff2",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\fonts\\nucleo.woff2",
       "PackagePath": "staticwebassets\\fonts\\nucleo.woff2"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\apple-icon.png",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\apple-icon.png",
       "PackagePath": "staticwebassets\\img\\apple-icon.png"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\bg1.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\bg-pricing.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-pricing.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\bg-smart-home-1.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-smart-home-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\bg-smart-home-2.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-smart-home-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\bg1.jpg",
       "PackagePath": "staticwebassets\\img\\bg1.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\bruce-mars.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\bruce-mars.jpg",
       "PackagePath": "staticwebassets\\img\\bruce-mars.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\curved-images\\curved-10.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\curved-images\\curved-10.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved-10.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\curved-images\\curved-11.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\curved-images\\curved-11.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved-11.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\curved-images\\curved-6.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\curved-images\\curved-6.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved-6.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\curved-images\\curved-8.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\curved-images\\curved-8.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved-8.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\curved-images\\curved0.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\curved-images\\curved0.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved0.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\curved-images\\curved1.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\curved-images\\curved1.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved1.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\curved-images\\curved10.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\curved-images\\curved10.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved10.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\curved-images\\curved11-small.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\curved-images\\curved11-small.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved11-small.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\curved-images\\curved11.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\curved-images\\curved11.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved11.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\curved-images\\curved12.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\curved-images\\curved12.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved12.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\curved-images\\curved13.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\curved-images\\curved13.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved13.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\curved-images\\curved14.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\curved-images\\curved14.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved14.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\curved-images\\curved19.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\curved-images\\curved19.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved19.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\curved-images\\curved2.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\curved-images\\curved2.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved2.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\curved-images\\curved21.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\curved-images\\curved21.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved21.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\curved-images\\curved3.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\curved-images\\curved3.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved3.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\curved-images\\curved4.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\curved-images\\curved4.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved4.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\curved-images\\curved5-small.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\curved-images\\curved5-small.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved5-small.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\curved-images\\curved5.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\curved-images\\curved5.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved5.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\curved-images\\curved6-small.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\curved-images\\curved6-small.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved6-small.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\curved-images\\curved6.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\curved-images\\curved6.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved6.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\curved-images\\curved7.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\curved-images\\curved7.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved7.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\curved-images\\curved8.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\curved-images\\curved8.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved8.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\curved-images\\curved9.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\curved-images\\curved9.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved9.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\curved-images\\white-curved.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\curved-images\\white-curved.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\white-curved.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\down-arrow-dark.svg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\down-arrow-dark.svg",
       "PackagePath": "staticwebassets\\img\\down-arrow-dark.svg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\down-arrow-white.svg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\down-arrow-white.svg",
       "PackagePath": "staticwebassets\\img\\down-arrow-white.svg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\down-arrow.svg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\down-arrow.svg",
       "PackagePath": "staticwebassets\\img\\down-arrow.svg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\favicon.png",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\drake.jpg",
+      "PackagePath": "staticwebassets\\img\\drake.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\favicon.png",
       "PackagePath": "staticwebassets\\img\\favicon.png"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\home-decor-1.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\home-decor-1.jpg",
       "PackagePath": "staticwebassets\\img\\home-decor-1.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\home-decor-2.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\home-decor-2.jpg",
       "PackagePath": "staticwebassets\\img\\home-decor-2.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\home-decor-3.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\home-decor-3.jpg",
       "PackagePath": "staticwebassets\\img\\home-decor-3.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\illustrations\\rocket-dark.png",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\icons\\flags\\AU.png",
+      "PackagePath": "staticwebassets\\img\\icons\\flags\\AU.png"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\icons\\flags\\BR.png",
+      "PackagePath": "staticwebassets\\img\\icons\\flags\\BR.png"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\icons\\flags\\DE.png",
+      "PackagePath": "staticwebassets\\img\\icons\\flags\\DE.png"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\icons\\flags\\GB.png",
+      "PackagePath": "staticwebassets\\img\\icons\\flags\\GB.png"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\icons\\flags\\US.png",
+      "PackagePath": "staticwebassets\\img\\icons\\flags\\US.png"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\illustrations\\chat.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\chat.png"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\illustrations\\danger-chat-ill.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\danger-chat-ill.png"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\illustrations\\dark-lock-ill.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\dark-lock-ill.png"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\illustrations\\error-404.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\error-404.png"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\illustrations\\error-500.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\error-500.png"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\illustrations\\illustration-lock.jpg",
+      "PackagePath": "staticwebassets\\img\\illustrations\\illustration-lock.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\illustrations\\illustration-reset.jpg",
+      "PackagePath": "staticwebassets\\img\\illustrations\\illustration-reset.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\illustrations\\illustration-signin.jpg",
+      "PackagePath": "staticwebassets\\img\\illustrations\\illustration-signin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\illustrations\\illustration-signup.jpg",
+      "PackagePath": "staticwebassets\\img\\illustrations\\illustration-signup.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\illustrations\\illustration-verification.jpg",
+      "PackagePath": "staticwebassets\\img\\illustrations\\illustration-verification.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\illustrations\\lock.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\lock.png"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\illustrations\\pattern-tree.svg",
+      "PackagePath": "staticwebassets\\img\\illustrations\\pattern-tree.svg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\illustrations\\rocket-dark.png",
       "PackagePath": "staticwebassets\\img\\illustrations\\rocket-dark.png"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\illustrations\\rocket-white.png",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\illustrations\\rocket-white.png",
       "PackagePath": "staticwebassets\\img\\illustrations\\rocket-white.png"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\ivana-square.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\ivana-square.jpg",
       "PackagePath": "staticwebassets\\img\\ivana-square.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\ivancik.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\ivana-squares.jpg",
+      "PackagePath": "staticwebassets\\img\\ivana-squares.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\ivancik.jpg",
       "PackagePath": "staticwebassets\\img\\ivancik.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\kal-visuals-square.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\kal-visuals-square.jpg",
       "PackagePath": "staticwebassets\\img\\kal-visuals-square.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\logo-ct-dark.png",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\logo-ct-dark.png",
       "PackagePath": "staticwebassets\\img\\logo-ct-dark.png"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\logo-ct.png",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\logo-ct.png",
       "PackagePath": "staticwebassets\\img\\logo-ct.png"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\logos\\mastercard.png",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\logos\\gray-logos\\logo-coinbase.svg",
+      "PackagePath": "staticwebassets\\img\\logos\\gray-logos\\logo-coinbase.svg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\logos\\gray-logos\\logo-nasa.svg",
+      "PackagePath": "staticwebassets\\img\\logos\\gray-logos\\logo-nasa.svg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\logos\\gray-logos\\logo-netflix.svg",
+      "PackagePath": "staticwebassets\\img\\logos\\gray-logos\\logo-netflix.svg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\logos\\gray-logos\\logo-pinterest.svg",
+      "PackagePath": "staticwebassets\\img\\logos\\gray-logos\\logo-pinterest.svg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\logos\\gray-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\img\\logos\\gray-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\logos\\gray-logos\\logo-vodafone.svg",
+      "PackagePath": "staticwebassets\\img\\logos\\gray-logos\\logo-vodafone.svg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\logos\\mastercard.png",
       "PackagePath": "staticwebassets\\img\\logos\\mastercard.png"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\logos\\visa.png",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\logos\\visa.png",
       "PackagePath": "staticwebassets\\img\\logos\\visa.png"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\marie.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\marie.jpg",
       "PackagePath": "staticwebassets\\img\\marie.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\shapes\\pattern-lines.svg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\meeting.jpg",
+      "PackagePath": "staticwebassets\\img\\meeting.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\office-dark.jpg",
+      "PackagePath": "staticwebassets\\img\\office-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\product-12.jpg",
+      "PackagePath": "staticwebassets\\img\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\products\\product-1-min.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-1-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\products\\product-11.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\products\\product-2-min.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-2-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\products\\product-3-min.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-3-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\products\\product-4-min.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-4-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\products\\product-5-min.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-5-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\products\\product-6-min.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-6-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\products\\product-7-min.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-7-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\products\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-details-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\products\\product-details-2.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-details-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\products\\product-details-3.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-details-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\products\\product-details-4.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-details-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\products\\product-details-5.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-details-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\shapes\\pattern-lines.svg",
       "PackagePath": "staticwebassets\\img\\shapes\\pattern-lines.svg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\shapes\\shape-1.svg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\shapes\\shape-1.svg",
       "PackagePath": "staticwebassets\\img\\shapes\\shape-1.svg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\shapes\\shape-2.svg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\shapes\\shape-2.svg",
       "PackagePath": "staticwebassets\\img\\shapes\\shape-2.svg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\shapes\\shape-3.svg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\shapes\\shape-3.svg",
       "PackagePath": "staticwebassets\\img\\shapes\\shape-3.svg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\shapes\\wave-down.svg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\shapes\\wave-down.svg",
       "PackagePath": "staticwebassets\\img\\shapes\\wave-down.svg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\shapes\\wave-up.svg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\shapes\\wave-up.svg",
       "PackagePath": "staticwebassets\\img\\shapes\\wave-up.svg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\shapes\\waves-gray.svg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\shapes\\waves-gray.svg",
       "PackagePath": "staticwebassets\\img\\shapes\\waves-gray.svg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\shapes\\waves-white.svg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\shapes\\waves-white.svg",
       "PackagePath": "staticwebassets\\img\\shapes\\waves-white.svg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\small-logos\\icon-sun-cloud.png",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\small-logos\\bootstrap.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\bootstrap.svg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\small-logos\\creative-tim.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\creative-tim.svg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\small-logos\\devto.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\devto.svg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\small-logos\\github.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\github.svg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\small-logos\\google-webdev.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\google-webdev.svg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\small-logos\\icon-bulb.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\icon-bulb.svg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\small-logos\\icon-sun-cloud.png",
       "PackagePath": "staticwebassets\\img\\small-logos\\icon-sun-cloud.png"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\small-logos\\logo-atlassian.svg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\small-logos\\logo-asana.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\logo-asana.svg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\small-logos\\logo-atlassian.svg",
       "PackagePath": "staticwebassets\\img\\small-logos\\logo-atlassian.svg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\small-logos\\logo-invision.svg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\small-logos\\logo-invision.svg",
       "PackagePath": "staticwebassets\\img\\small-logos\\logo-invision.svg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\small-logos\\logo-jira.svg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\small-logos\\logo-jira.svg",
       "PackagePath": "staticwebassets\\img\\small-logos\\logo-jira.svg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\small-logos\\logo-slack.svg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\small-logos\\logo-slack.svg",
       "PackagePath": "staticwebassets\\img\\small-logos\\logo-slack.svg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\small-logos\\logo-spotify.svg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\small-logos\\logo-spotify.svg",
       "PackagePath": "staticwebassets\\img\\small-logos\\logo-spotify.svg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\small-logos\\logo-webdev.svg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\small-logos\\logo-webdev.svg",
       "PackagePath": "staticwebassets\\img\\small-logos\\logo-webdev.svg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\small-logos\\logo-xd.svg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\small-logos\\logo-xd.svg",
       "PackagePath": "staticwebassets\\img\\small-logos\\logo-xd.svg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\team-1.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\team-1.jpg",
       "PackagePath": "staticwebassets\\img\\team-1.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\team-2.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\team-2.jpg",
       "PackagePath": "staticwebassets\\img\\team-2.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\team-3.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\team-3.jpg",
       "PackagePath": "staticwebassets\\img\\team-3.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\team-4.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\team-4.jpg",
       "PackagePath": "staticwebassets\\img\\team-4.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\theme\\angular.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\team-5.jpg",
+      "PackagePath": "staticwebassets\\img\\team-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\tesla-model-s.png",
+      "PackagePath": "staticwebassets\\img\\tesla-model-s.png"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\theme\\angular.jpg",
       "PackagePath": "staticwebassets\\img\\theme\\angular.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\theme\\bootstrap.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\theme\\bootstrap.jpg",
       "PackagePath": "staticwebassets\\img\\theme\\bootstrap.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\theme\\dribbble.png",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\theme\\dribbble.png",
       "PackagePath": "staticwebassets\\img\\theme\\dribbble.png"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\theme\\dropbox.png",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\theme\\dropbox.png",
       "PackagePath": "staticwebassets\\img\\theme\\dropbox.png"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\theme\\mastercard.png",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\theme\\mastercard.png",
       "PackagePath": "staticwebassets\\img\\theme\\mastercard.png"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\theme\\paypal.png",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\theme\\paypal.png",
       "PackagePath": "staticwebassets\\img\\theme\\paypal.png"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\theme\\react.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\theme\\react.jpg",
       "PackagePath": "staticwebassets\\img\\theme\\react.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\theme\\sketch.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\theme\\sketch.jpg",
       "PackagePath": "staticwebassets\\img\\theme\\sketch.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\theme\\slack.png",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\theme\\slack.png",
       "PackagePath": "staticwebassets\\img\\theme\\slack.png"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\theme\\spotify.jpeg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\theme\\spotify.jpeg",
       "PackagePath": "staticwebassets\\img\\theme\\spotify.jpeg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\theme\\tim.png",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\theme\\tim.png",
       "PackagePath": "staticwebassets\\img\\theme\\tim.png"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\theme\\unass.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\theme\\unass.jpg",
       "PackagePath": "staticwebassets\\img\\theme\\unass.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\theme\\visa.png",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\theme\\visa.png",
       "PackagePath": "staticwebassets\\img\\theme\\visa.png"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\theme\\vue.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\theme\\vue.jpg",
       "PackagePath": "staticwebassets\\img\\theme\\vue.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\img\\vr-bg.jpg",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\img\\vr-bg.jpg",
       "PackagePath": "staticwebassets\\img\\vr-bg.jpg"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\js\\core\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\js\\ajax.js",
+      "PackagePath": "staticwebassets\\js\\ajax.js"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\js\\core\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\js\\core\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\js\\core\\bootstrap.min.js",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\js\\core\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\core\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\js\\core\\popper.min.js",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\js\\core\\popper.min.js",
       "PackagePath": "staticwebassets\\js\\core\\popper.min.js"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\js\\plugins\\Chart.extension.js",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\js\\material-dashboard.js",
+      "PackagePath": "staticwebassets\\js\\material-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\js\\material-dashboard.js.map",
+      "PackagePath": "staticwebassets\\js\\material-dashboard.js.map"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\js\\material-dashboard.min.js",
+      "PackagePath": "staticwebassets\\js\\material-dashboard.min.js"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\js\\plugins\\Chart.extension.js",
       "PackagePath": "staticwebassets\\js\\plugins\\Chart.extension.js"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\js\\plugins\\bootstrap-notify.js",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\js\\plugins\\bootstrap-notify.js",
       "PackagePath": "staticwebassets\\js\\plugins\\bootstrap-notify.js"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\js\\plugins\\chartjs.min.js",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\js\\plugins\\chartjs.min.js",
       "PackagePath": "staticwebassets\\js\\plugins\\chartjs.min.js"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\js\\plugins\\perfect-scrollbar.min.js",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\js\\plugins\\perfect-scrollbar.min.js",
       "PackagePath": "staticwebassets\\js\\plugins\\perfect-scrollbar.min.js"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\js\\plugins\\smooth-scrollbar.min.js",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\js\\plugins\\smooth-scrollbar.min.js",
       "PackagePath": "staticwebassets\\js\\plugins\\smooth-scrollbar.min.js"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\js\\plugins\\world.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\world.js"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\js\\soft-ui-dashboard.js",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\js\\soft-ui-dashboard.js",
       "PackagePath": "staticwebassets\\js\\soft-ui-dashboard.js"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\js\\soft-ui-dashboard.js.map",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\js\\soft-ui-dashboard.js.map",
       "PackagePath": "staticwebassets\\js\\soft-ui-dashboard.js.map"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\js\\soft-ui-dashboard.min.js",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\js\\soft-ui-dashboard.min.js",
       "PackagePath": "staticwebassets\\js\\soft-ui-dashboard.min.js"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_avatars.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_avatars.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_cards.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_dark-version.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_dropup.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_dropup.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_header.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_icons.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_info-areas.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_misc.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_popovers.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_popovers.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_ripple.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_ripple.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_rtl.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_rtl.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_social-buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_tilt.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_tilt.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_timeline.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_timeline.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_tooltips.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_typography.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_utilities-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_containers.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_helpers.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_maps.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_maps.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_placeholders.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\cards\\card-background.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\cards\\card-background.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\cards\\card-rotate.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\cards\\card-rotate.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\custom\\_styles.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\custom\\_styles.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\custom\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\custom\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\forms\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\forms\\_form-switch.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\forms\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\forms\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\forms\\_inputs.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\forms\\_inputs.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\mixins\\_colored-shadows.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\mixins\\_colored-shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\mixins\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\mixins\\_social-buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\mixins\\_vendor.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\mixins\\_vendor.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\mixins\\mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\mixins\\mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\plugins\\free\\_flatpickr.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\plugins\\free\\_flatpickr.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\plugins\\free\\_nouislider.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\plugins\\free\\_nouislider.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\plugins\\free\\_perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\plugins\\free\\_perfect-scrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\plugins\\free\\_prism.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\plugins\\free\\_prism.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\plugins\\free\\plugins.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\plugins\\free\\plugins.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\theme.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\variables\\_animations.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_animations.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\variables\\_avatars.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_avatars.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\variables\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\variables\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\variables\\_cards-extend.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_cards-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\variables\\_cards.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\variables\\_choices.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_choices.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\variables\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_dark-version.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\variables\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_dropdowns.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\variables\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\variables\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_form-switch.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\variables\\_full-calendar.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_full-calendar.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\variables\\_header.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\variables\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_info-areas.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\variables\\_misc-extend.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_misc-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\variables\\_misc.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\variables\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\variables\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\variables\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\variables\\_ripple.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_ripple.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\variables\\_rtl.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_rtl.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\variables\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_social-buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\variables\\_table.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_table.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\variables\\_timeline.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_timeline.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\variables\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_utilities-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\variables\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\material-dashboard\\variables\\_virtual-reality.scss",
+      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_virtual-reality.scss"
+    },
+    {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_alert.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_alert.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\_alert.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_avatars.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_avatars.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\_avatars.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_badge.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_badge.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\_badge.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_breadcrumbs.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_breadcrumbs.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\_breadcrumbs.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_buttons.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_buttons.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\_buttons.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_cards.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_cards.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\_cards.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_dark-version.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_dark-version.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\_dark-version.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_dropdown.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_dropdown.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\_dropdown.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_dropup.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_dropup.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\_dropup.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_fixed-plugin.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_fixed-plugin.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\_fixed-plugin.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_footer.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_footer.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\_footer.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_forms.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_forms.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\_forms.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_gradients.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_gradients.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\_gradients.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_header.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_header.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\_header.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_info-areas.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_info-areas.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\_info-areas.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_misc.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_misc.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\_misc.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_nav.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_nav.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\_nav.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_navbar-vertical.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_navbar-vertical.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\_navbar-vertical.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_navbar.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_navbar.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\_navbar.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_pagination.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_pagination.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\_pagination.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_popovers.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_popovers.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\_popovers.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_progress.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_progress.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\_progress.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_rtl.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_rtl.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\_rtl.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_social-buttons.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_social-buttons.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\_social-buttons.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_tables.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_tables.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\_tables.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_tilt.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_tilt.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\_tilt.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_timeline.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_timeline.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\_timeline.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_tooltips.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_tooltips.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\_tooltips.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_typography.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_typography.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\_typography.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_utilities-extend.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_utilities-extend.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\_utilities-extend.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_utilities.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_utilities.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\_utilities.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_variables.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\_variables.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\_variables.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_accordion.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_accordion.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_accordion.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_alert.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_alert.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_alert.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_badge.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_badge.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_badge.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_breadcrumb.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_breadcrumb.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_button-group.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_button-group.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_button-group.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_buttons.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_buttons.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_buttons.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_card.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_card.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_card.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_carousel.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_carousel.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_carousel.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_close.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_close.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_close.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_containers.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_containers.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_containers.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_dropdown.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_dropdown.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_dropdown.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_forms.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_forms.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_forms.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_functions.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_functions.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_functions.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_grid.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_grid.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_grid.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_helpers.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_helpers.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_helpers.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_images.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_images.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_images.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_list-group.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_list-group.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_list-group.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_maps.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_maps.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_maps.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_mixins.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_mixins.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_mixins.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_modal.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_modal.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_modal.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_nav.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_nav.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_nav.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_navbar.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_navbar.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_navbar.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_offcanvas.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_offcanvas.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_offcanvas.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_pagination.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_pagination.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_pagination.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_placeholders.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_placeholders.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_placeholders.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_popover.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_popover.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_popover.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_progress.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_progress.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_progress.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_reboot.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_reboot.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_reboot.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_root.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_root.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_root.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_spinners.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_spinners.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_spinners.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_tables.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_tables.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_tables.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_toasts.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_toasts.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_toasts.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_tooltip.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_tooltip.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_tooltip.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_transitions.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_transitions.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_transitions.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_type.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_type.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_type.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_utilities.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_utilities.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_utilities.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_variables.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\_variables.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\_variables.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-grid.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-grid.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-grid.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-reboot.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-reboot.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-reboot.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-utilities.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-utilities.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-utilities.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_floating-labels.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_floating-labels.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_floating-labels.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-check.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-check.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-check.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-control.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-control.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-control.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-range.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-range.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-range.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-select.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-select.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-select.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-text.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-text.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-text.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_input-group.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_input-group.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_input-group.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_labels.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_labels.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_labels.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_validation.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_validation.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_validation.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_clearfix.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_clearfix.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_clearfix.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_color-bg.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_color-bg.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_color-bg.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_colored-links.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_colored-links.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_colored-links.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_position.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_position.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_position.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_ratio.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_ratio.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_ratio.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stacks.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stacks.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stacks.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stretched-link.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stretched-link.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stretched-link.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_text-truncation.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_text-truncation.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_text-truncation.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_visually-hidden.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_visually-hidden.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_vr.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_vr.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_vr.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_alert.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_alert.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_alert.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_backdrop.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_backdrop.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_backdrop.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_banner.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_banner.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_banner.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_border-radius.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_border-radius.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_border-radius.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_box-shadow.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_box-shadow.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_box-shadow.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_breakpoints.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_breakpoints.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_breakpoints.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_buttons.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_buttons.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_buttons.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_caret.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_caret.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_caret.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_clearfix.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_clearfix.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_clearfix.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_color-scheme.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_color-scheme.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_color-scheme.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_container.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_container.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_container.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_deprecate.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_deprecate.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_deprecate.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_forms.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_forms.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_forms.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_gradients.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_gradients.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_gradients.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_grid.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_grid.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_grid.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_image.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_image.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_image.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_list-group.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_list-group.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_list-group.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_lists.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_lists.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_lists.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_pagination.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_pagination.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_pagination.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_reset-text.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_reset-text.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_reset-text.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_resize.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_resize.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_resize.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_table-variants.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_table-variants.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_table-variants.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_text-truncate.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_text-truncate.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_text-truncate.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_transition.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_transition.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_transition.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_utilities.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_utilities.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_utilities.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_visually-hidden.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_visually-hidden.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\utilities\\_api.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\utilities\\_api.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\utilities\\_api.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\vendor\\_rfs.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\bootstrap\\vendor\\_rfs.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\bootstrap\\vendor\\_rfs.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\cards\\card-background.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\cards\\card-background.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\cards\\card-background.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\custom\\_styles.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\custom\\_styles.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\custom\\_styles.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\custom\\_variables.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\custom\\_variables.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\custom\\_variables.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\forms\\_form-check.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\forms\\_form-check.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\forms\\_form-check.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\forms\\_form-select.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\forms\\_form-select.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\forms\\_form-select.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\forms\\_form-switch.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\forms\\_form-switch.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\forms\\_form-switch.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\forms\\_forms.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\forms\\_forms.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\forms\\_forms.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\forms\\_input-group.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\forms\\_input-group.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\forms\\_input-group.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\forms\\_inputs.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\forms\\_inputs.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\forms\\_inputs.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\forms\\_labels.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\forms\\_labels.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\forms\\_labels.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\mixins\\_badge.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\mixins\\_badge.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\mixins\\_badge.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\mixins\\_colored-shadows.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\mixins\\_colored-shadows.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\mixins\\_colored-shadows.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\mixins\\_container.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\mixins\\_container.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\mixins\\_container.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\mixins\\_hover.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\mixins\\_hover.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\mixins\\_hover.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\mixins\\_social-buttons.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\mixins\\_social-buttons.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\mixins\\_social-buttons.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\mixins\\mixins.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\mixins\\mixins.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\mixins\\mixins.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\plugins\\free\\_flatpickr.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\plugins\\free\\_flatpickr.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\plugins\\free\\_flatpickr.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\plugins\\free\\_nouislider.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\plugins\\free\\_nouislider.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\plugins\\free\\_nouislider.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\plugins\\free\\_perfect-scrollbar.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\plugins\\free\\_perfect-scrollbar.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\plugins\\free\\_perfect-scrollbar.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\plugins\\free\\_prism.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\plugins\\free\\_prism.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\plugins\\free\\_prism.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\plugins\\free\\plugins.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\plugins\\free\\plugins.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\plugins\\free\\plugins.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\theme.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\theme.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\theme.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_animations.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_animations.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\variables\\_animations.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_avatars.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_avatars.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\variables\\_avatars.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_badge.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_badge.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\variables\\_badge.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_breadcrumb.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\variables\\_breadcrumb.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_cards-extend.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_cards-extend.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\variables\\_cards-extend.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_cards.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_cards.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\variables\\_cards.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_choices.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_choices.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\variables\\_choices.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_dark-version.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_dark-version.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\variables\\_dark-version.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_dropdowns.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_dropdowns.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\variables\\_dropdowns.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_fixed-plugin.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_fixed-plugin.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\variables\\_fixed-plugin.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_form-switch.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_form-switch.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\variables\\_form-switch.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_full-calendar.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_full-calendar.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\variables\\_full-calendar.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_header.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_header.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\variables\\_header.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_info-areas.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_info-areas.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\variables\\_info-areas.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_misc-extend.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_misc-extend.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\variables\\_misc-extend.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_misc.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_misc.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\variables\\_misc.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_navbar-vertical.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_navbar-vertical.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\variables\\_navbar-vertical.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_navbar.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_navbar.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\variables\\_navbar.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_pagination.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_pagination.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\variables\\_pagination.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_rtl.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_rtl.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\variables\\_rtl.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_social-buttons.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_social-buttons.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\variables\\_social-buttons.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_table.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_table.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\variables\\_table.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_timeline.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_timeline.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\variables\\_timeline.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_utilities-extend.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_utilities-extend.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\variables\\_utilities-extend.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_utilities.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_utilities.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\variables\\_utilities.scss"
     },
     {
-      "Id": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_virtual-reality.scss",
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\scss\\soft-ui-dashboard\\variables\\_virtual-reality.scss",
       "PackagePath": "staticwebassets\\scss\\soft-ui-dashboard\\variables\\_virtual-reality.scss"
     },
     {

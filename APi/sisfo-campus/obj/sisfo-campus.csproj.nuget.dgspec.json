@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\sisfo-campus\\sisfo-campus.csproj": {}
+    "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\sisfo-campus\\sisfo-campus.csproj": {}
   },
   "projects": {
-    "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\sisfo-campus\\sisfo-campus.csproj": {
+    "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\sisfo-campus\\sisfo-campus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\sisfo-campus\\sisfo-campus.csproj",
+        "projectUniqueName": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\sisfo-campus\\sisfo-campus.csproj",
         "projectName": "sisfo-campus",
-        "projectPath": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\sisfo-campus\\sisfo-campus.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\sisfo-campus\\obj\\",
+        "projectPath": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\sisfo-campus\\sisfo-campus.csproj",
+        "packagesPath": "C:\\Users\\RONALDO WIJAYA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\sisfo-campus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\RONALDO WIJAYA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -86,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

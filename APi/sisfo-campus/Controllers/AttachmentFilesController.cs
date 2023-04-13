@@ -11,18 +11,18 @@ using sisfo_campus.Repositories.Data;
 
 namespace sisfo_campus.Controllers;
 
-public class AttachmentFilesController : Controller
+public class AttachmentFilesController : BaseController<Int64, AttachmentFile, AttachmentFileRepository>
 {
     private readonly MyContext context;
     private readonly ICommon common;
 
-    public AttachmentFilesController(MyContext context, ICommon common)
+    public AttachmentFilesController(MyContext context, ICommon common, AttachmentFileRepository repository) : base(repository)
     {
         this.context = context;
         this.common = common;
     }
 
-    [HttpGet]
+    /*[HttpGet]
     public IActionResult Index()
     {
         var _GetGridItem = GetGridItem().ToList();
@@ -119,5 +119,5 @@ public class AttachmentFilesController : Controller
         {
             throw ex;
         }
-    }
+    }*/
 }

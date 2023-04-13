@@ -1,0 +1,179 @@
+﻿
+@{
+    ViewData["Title"] = "Assignment Page";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<table id="assignmentTable" class="table table-hover table-striped">
+    <thead class="table-dark text-center">
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Upload Date</th>
+            <th>Score</th>
+            <th>Course Code</th>
+            <th>Student Nim</th>
+            <th>Lecturer Nik</th>
+            <th>Attachment File Id</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody style="background-color: white" class="text-center" id="tbodyPoke">
+    </tbody>
+</table>
+
+<!-- Modal Add -->
+<div class="modal fade" id="modalAddAssignment" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title w-100 text-center fs-5" id="exampleModalLabel">Add Assignment</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="form-row">
+                        <div class="form-group col-md-12">
+                            <label for="name">Name</label>
+                            <input type="text" class="form-control" id="name">
+                        </div>
+                    </div>
+
+                    <div class="form-row">
+                        <div class="form-group col-md-12">
+                            <label for="uploadDate">Upload Date</label>
+                            <input type="datetime-local" class="form-control" id="uploadDate">
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-12">
+                            <label for="score">Score</label>
+                            <input type="text" class="form-control" id="score">
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-12">
+                            <label for="courseCode">Course Code</label>
+                            <input type="text" class="form-control" id="courseCode">
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-12">
+                            <label for="studentNim">Student Nim</label>
+                            <input type="text" class="form-control" id="studentNim">
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-12">
+                            <label for="lecturerNik">Lecturer Nik</label>
+                            <input type="text" class="form-control" id="lecturerNik">
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-12">
+                            <label for="attachmentFileId">Attachment File Id</label>
+                            <input type="text" class="form-control" id="attachmentFileId">
+                        </div>
+                    </div>
+                    @*<button type="submit" class="btn btn-primary">Sign in</button>*@
+                </form>
+            </div>
+            <div class="modal-footer">
+                @*<button type="button" class="btn btn-warning" data-bs-dismiss="modal">Close</button>*@
+                <button onclick="Insert();" id="store" class="btn btn-success">Add</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="modalDelete" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title w-100 text-center" id="exampleModalLongTitle">Are you sure?</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                Do you really want to delete these records? This process cannot be undone.
+            </div>
+            <div class="modal-footer">
+                @*<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>*@
+                <button onclick="Delete(stringUrl);" type="button" class="btn btn-danger">Delete</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script src="~/js/ajax.js" asp-append-version="true"></script>
+}
+
+@*<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UploadDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Score)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CourseCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StudentNim)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LecturerNik)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UploadDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Score)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CourseCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudentNim)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LecturerNik)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+*@

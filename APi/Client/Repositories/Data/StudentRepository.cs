@@ -11,7 +11,7 @@ public class StudentRepository : GeneralRepository<Student, string>
         this.request = request;
         _httpClient = new HttpClient
         {
-            BaseAddress = new Uri("https://localhost:7049/api/")
+            BaseAddress = new Uri("https://localhost:7024/api/")
         };
     }
 }

@@ -252,3 +252,4 @@ D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\Client\bin\Debug\n
 D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\Client\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\Client\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\Client\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\KERJA\MCC\Pemrograman\Segmen 4 Proyek Akhir\Final Test\APi\Client\obj\Debug\net6.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css

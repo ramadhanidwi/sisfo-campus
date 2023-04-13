@@ -17,9 +17,11 @@ public class GeneralRepository<Entity, Key> : IRepository<Entity,Key> where Enti
         this.request = request;
         _httpClient = new HttpClient
         {
-            BaseAddress = new Uri("https://localhost:7049/api/")
+            BaseAddress = new Uri("https://localhost:7024/api/")
         };
     }
+
+    //Delete
     public async Task<ResponseStatusVM> Delete(Key id)
     {
         ResponseStatusVM entityVM = null;
@@ -32,6 +34,7 @@ public class GeneralRepository<Entity, Key> : IRepository<Entity,Key> where Enti
         return entityVM;
     }
 
+    //Get All
     public async Task<ResponseListVM<Entity>> Get()
     {
         ResponseListVM<Entity> reponseListVM = null;
@@ -43,6 +46,7 @@ public class GeneralRepository<Entity, Key> : IRepository<Entity,Key> where Enti
         return reponseListVM;
     }
 
+    //Get By Id
     public async Task<ResponseVM<Entity>> Get(Key id)
     {
         ResponseVM<Entity> reponseVM = null;
@@ -54,6 +58,7 @@ public class GeneralRepository<Entity, Key> : IRepository<Entity,Key> where Enti
         return reponseVM;
     }
 
+    //Insert
     public async Task<ResponseStatusVM> Post(Entity entity)
     {
         ResponseStatusVM entityVM = null;
@@ -68,6 +73,7 @@ public class GeneralRepository<Entity, Key> : IRepository<Entity,Key> where Enti
         return entityVM;
     }
 
+    //Edit
     public async Task<ResponseStatusVM> Put(Entity entity, Key id)
     {
         ResponseStatusVM entityVM = null;

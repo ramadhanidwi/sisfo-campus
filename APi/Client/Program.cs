@@ -12,6 +12,13 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddSession();
 
 builder.Services.AddScoped<AccountRepository>();
+builder.Services.AddScoped<AssignmentRepository>();
+builder.Services.AddScoped<CourseRepository>();
+builder.Services.AddScoped<FacultyRepository>();
+builder.Services.AddScoped<LecturerRepository>();
+builder.Services.AddScoped<MajorRepository>();
+builder.Services.AddScoped<RoleRepository>();
+builder.Services.AddScoped<StudentRepository>();
 
 // Configure JWT
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)

@@ -21,12 +21,12 @@ public class StudentsController : BaseController<Student, StudentRepository, str
     public async Task<IActionResult> Index()
     {
         var result = await repository.Get();
-        var faculties = new List<Student>();
+        var students = new List<Student>();
         if (result.Data != null)
         {
-            faculties = result.Data.ToList();
+            students = result.Data.ToList();
         }
-        return View(faculties);
+        return View(students);
     }
 
     //Create
@@ -38,9 +38,9 @@ public class StudentsController : BaseController<Student, StudentRepository, str
 
     //Details (Get by Id)
     [HttpGet]
-    public async Task<IActionResult> Details(string nim)
+    public async Task<IActionResult> Details(string id)
     {
-        var result = await repository.Get(nim);
+        var result = await repository.Get(id);
         var detail = new Student();
         if (result.Data != null)
         {

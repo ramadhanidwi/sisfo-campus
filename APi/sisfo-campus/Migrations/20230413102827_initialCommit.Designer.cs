@@ -12,13 +12,8 @@ using sisfo_campus.Contexts;
 namespace sisfo_campus.Migrations
 {
     [DbContext(typeof(MyContext))]
-<<<<<<<< HEAD:APi/sisfo-campus/Migrations/20230411064559_initialCommit.Designer.cs
-    [Migration("20230411064559_initialCommit")]
+    [Migration("20230413102827_initialCommit")]
     partial class initialCommit
-========
-    [Migration("20230412083013_InitialCommit")]
-    partial class InitialCommit
->>>>>>>> rama:APi/sisfo-campus/Migrations/20230412083013_InitialCommit.Designer.cs
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -83,7 +78,7 @@ namespace sisfo_campus.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<long>("AttachmentFileId")
+                    b.Property<long?>("AttachmentFileId")
                         .HasColumnType("bigint")
                         .HasColumnName("attachment_file_id");
 

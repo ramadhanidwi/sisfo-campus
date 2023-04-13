@@ -1,10 +1,3 @@
-C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.csproj.AssemblyReference.cache
-C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.AssemblyInfoInputs.cache
-C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.AssemblyInfo.cs
-C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.csproj.CoreCompileInputs.cache
-C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\appsettings.json
 C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\sisfo-campus.exe
@@ -73,6 +66,13 @@ C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net
 C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.csproj.AssemblyReference.cache
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.AssemblyInfoInputs.cache
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.AssemblyInfo.cs
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.csproj.CoreCompileInputs.cache
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\sisfo-campus.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\staticwebassets\msbuild.sisfo-campus.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\staticwebassets\msbuild.build.sisfo-campus.props
 C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\sisfo-campus\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.sisfo-campus.props

@@ -123,7 +123,7 @@ namespace sisfo_campus.Base
                 return BadRequest(new
                 {
                     StatusCode = 400,
-                    Message = "Something Wrong " + ex.Message,
+                    Message = "Something Wrong " + ex.InnerException.Message,
                 });
             }
         }

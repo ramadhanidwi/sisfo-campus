@@ -8,11 +8,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace sisfo_campus.Migrations
 {
     /// <inheritdoc />
-<<<<<<<< HEAD:APi/sisfo-campus/Migrations/20230411064559_initialCommit.cs
     public partial class initialCommit : Migration
-========
-    public partial class InitialCommit : Migration
->>>>>>>> rama:APi/sisfo-campus/Migrations/20230412083013_InitialCommit.cs
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -164,7 +160,7 @@ namespace sisfo_campus.Migrations
                     course_code = table.Column<int>(type: "int", nullable: false),
                     student_nim = table.Column<string>(type: "nchar(5)", nullable: true),
                     lecturer_nik = table.Column<int>(type: "int", nullable: false),
-                    attachment_file_id = table.Column<long>(type: "bigint", nullable: false)
+                    attachment_file_id = table.Column<long>(type: "bigint", nullable: true)
                 },
                 constraints: table =>
                 {

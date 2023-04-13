@@ -23,6 +23,7 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<AccountRepository>();
 builder.Services.AddScoped<AssignmentRepository>();
+builder.Services.AddScoped<AttachmentFileRepository>();
 builder.Services.AddScoped<CourseRepository>();
 builder.Services.AddScoped<FacultyRepository>();
 builder.Services.AddScoped<LecturerRepository>();

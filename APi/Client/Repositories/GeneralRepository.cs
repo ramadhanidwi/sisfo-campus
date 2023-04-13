@@ -17,7 +17,7 @@ public class GeneralRepository<Entity, Key> : IRepository<Entity,Key> where Enti
         this.request = request;
         _httpClient = new HttpClient
         {
-            BaseAddress = new Uri("https://localhost:7049/api/")
+            BaseAddress = new Uri("https://localhost:7024/api/")
         };
     }
     public async Task<ResponseStatusVM> Delete(Key id)

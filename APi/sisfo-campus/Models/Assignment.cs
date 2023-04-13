@@ -30,7 +30,7 @@ public class Assignment
     public int LecturerNik { get; set; }
 
     [Column("attachment_file_id")]
-    public Int64 AttachmentFileId { get; set; }
+    public Int64? AttachmentFileId { get; set; }
 
     //Cardinality
     [JsonIgnore]

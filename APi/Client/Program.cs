@@ -12,6 +12,9 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddSession();
 
 builder.Services.AddScoped<AccountRepository>();
+builder.Services.AddScoped<AssignmentRepository>();
+
+
 
 // Configure JWT
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)

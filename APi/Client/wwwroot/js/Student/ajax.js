@@ -1,10 +1,8 @@
-/*$.ajax({
+﻿/*$.ajax({
     url: "https://harry-potter-api-en.onrender.com/characters"
 }).done((result) => {
-
     //let text = "<li>" + result.results[3].name +"</li>"
     //console.log(result.characters);
-
     let text = "";
     $.each(result, function (key, val) {
         text += `<tr>
@@ -14,7 +12,6 @@
                 </tr>`;
     })
     $("#tbodyPoke").html(text)
-
 });*/
 
 //datatable harry potter
@@ -257,7 +254,7 @@ function Insert() {
     if (obj.AttachmentFileId === "") {
         obj.AttachmentFileId = null;
     }
-    
+
     //isi dari object kalian buat sesuai dengan bentuk object yang akan di post
     $.ajax({
         headers: {

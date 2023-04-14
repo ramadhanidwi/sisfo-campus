@@ -3803,19 +3803,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\RONALDO WIJAYA\\.nuget\\packages\\": {}
+    "C:\\Users\\LENOVO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\sisfo-campus\\sisfo-campus.csproj",
+      "projectUniqueName": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\sisfo-campus\\sisfo-campus.csproj",
       "projectName": "sisfo-campus",
-      "projectPath": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\sisfo-campus\\sisfo-campus.csproj",
-      "packagesPath": "C:\\Users\\RONALDO WIJAYA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\sisfo-campus\\obj\\",
+      "projectPath": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\sisfo-campus\\sisfo-campus.csproj",
+      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+      "outputPath": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\sisfo-campus\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\RONALDO WIJAYA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3887,7 +3887,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

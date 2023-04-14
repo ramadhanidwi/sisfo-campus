@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\Client.csproj": {}
+    "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\Client.csproj": {
+    "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\Client.csproj",
+        "projectUniqueName": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\Client.csproj",
         "projectName": "Client",
-        "projectPath": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\Client.csproj",
-        "packagesPath": "C:\\Users\\RONALDO WIJAYA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\obj\\",
+        "projectPath": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\Client.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "D:\\KERJA\\MCC\\Pemrograman\\Segmen 4 Proyek Akhir\\Final Test\\APi\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\RONALDO WIJAYA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -72,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

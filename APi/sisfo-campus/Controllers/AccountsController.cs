@@ -13,12 +13,12 @@ namespace sisfo_campus.Controllers;
 
 [Route("api/[controller]")]
 [ApiController]
-public class AccountController : BaseController<int, Account, AccountRepository>
+public class AccountsController : BaseController<int, Account, AccountRepository>
 {
     private readonly AccountRepository repository;
     private readonly IConfiguration configuration;
 
-    public AccountController(AccountRepository repository, IConfiguration configuration) : base(repository)
+    public AccountsController(AccountRepository repository, IConfiguration configuration) : base(repository)
     {
         this.repository = repository;
         this.configuration = configuration;
@@ -48,12 +48,12 @@ public class AccountController : BaseController<int, Account, AccountRepository>
                 });
             }
         }
-        catch(Exception ex)
+        catch
         {
             return BadRequest(new
             {
                 StatusCode = 500,
-                Message = "Something Wrong!" + ex.InnerException.Message 
+                Message = "Something Wrong!" 
             });
         }
     }

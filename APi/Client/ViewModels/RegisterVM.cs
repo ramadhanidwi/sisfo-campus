@@ -5,6 +5,7 @@ namespace Client.ViewModels;
 
 public class RegisterVM
 {
+    [MaxLength(5)]
     public string Nim { get; set; }
 
     public string FirstName { get; set; }

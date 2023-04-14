@@ -62,4 +62,32 @@ public class AccountsController : BaseController<Account, AccountRepository, str
         }
         return View();
     }
+
+    //Register
+    [HttpGet]
+    public async Task<IActionResult> Register()
+    {
+        return View();
+    }
+
+    [HttpPost]
+    [ValidateAntiForgeryToken]
+    public async Task<IActionResult> Register(RegisterVM registerVM)
+    {
+        var result = await repository.Register(registerVM);
+        if (result is null)
+        {
+            return RedirectToAction("Error", "Home");
+        }
+        else if (result.StatusCode == 409)
+        {
+            ModelState.AddModelError(string.Empty, result.Message);
+            return View();
+        }
+        else if (result.StatusCode == 200)
+        {
+            return RedirectToAction("Login", "Accounts");
+        }
+        return View();
+    }
 }

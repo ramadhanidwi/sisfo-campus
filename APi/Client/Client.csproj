@@ -8,13 +8,13 @@
 
   <ItemGroup>
     <Content Remove="wwwroot\js\ajax.js" />
-    <Content Remove="wwwroot\js\Student\Student.js" />
+    <Content Remove="wwwroot\js\Student\ajax.js" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="wwwroot\js\ajax.js" />
+    <None Include="wwwroot\js\Assignment\ajax.js" />
     <None Include="wwwroot\js\site.js" />
-    <None Include="wwwroot\js\Student\Student.js" />
+    <None Include="wwwroot\js\Student\ajax.js" />
   </ItemGroup>
 
   <ItemGroup>

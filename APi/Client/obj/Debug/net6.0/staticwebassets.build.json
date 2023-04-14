@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "eikF2VY0V+PwmWNXFWC4SE3iXQSQES2v23O6YmFI9Ck=",
+  "Hash": "SY5sSpcwtvgPsQY+sTwWdVjhMixwpcSxVTV+BtobGUc=",
   "Source": "Client",
   "BasePath": "_content/Client",
   "Mode": "Default",
@@ -2922,6 +2922,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\soft-ui-dashboard.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\js\\Student\\Student.js",
+      "SourceId": "Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\",
+      "BasePath": "_content/Client",
+      "RelativePath": "js/Student/Student.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Student\\Student.js"
     },
     {
       "Identity": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",

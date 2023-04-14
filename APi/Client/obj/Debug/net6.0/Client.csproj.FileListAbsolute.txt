@@ -506,3 +506,4 @@ C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\Client\obj\Debug\net6.0\re
 C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\Client\obj\Debug\net6.0\Client.pdb
 C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
 C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\Client\obj\Debug\net6.0\ref\Client.dll
+C:\Users\RONALDO WIJAYA\source\repos\sisfo-campus\APi\Client\obj\Debug\net6.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css

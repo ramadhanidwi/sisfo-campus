@@ -1,6 +1,7 @@
 ﻿using Client.Base;
 using Client.Models;
 using Client.Repositories.Data;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Client.Controllers;
@@ -29,6 +30,7 @@ public class AssignmentsController : BaseController<Assignment, AssignmentReposi
     //    return View(faculties);
     //}
 
+    [Authorize]
     public IActionResult Index()
     {
         return View();

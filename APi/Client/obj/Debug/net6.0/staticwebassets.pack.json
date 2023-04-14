@@ -613,6 +613,10 @@
       "PackagePath": "staticwebassets\\img\\vr-bg.jpg"
     },
     {
+      "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\js\\Student\\Student.js",
+      "PackagePath": "staticwebassets\\js\\Student\\Student.js"
+    },
+    {
       "Id": "C:\\Users\\RONALDO WIJAYA\\source\\repos\\sisfo-campus\\APi\\Client\\wwwroot\\js\\ajax.js",
       "PackagePath": "staticwebassets\\js\\ajax.js"
     },

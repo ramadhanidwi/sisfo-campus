@@ -58,7 +58,7 @@ public class AccountsController : BaseController<Account, AccountRepository, str
         else if (result.StatusCode == 200)
         {
             HttpContext.Session.SetString("jwtoken", result.Data);
-            return RedirectToAction("Index", "Home");
+            return RedirectToAction("Index", "Assignments");
         }
         return View();
     }
